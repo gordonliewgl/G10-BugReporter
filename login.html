@@ -1,34 +1,48 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
+<meta charset="utf-8">
 <html>
-    <head>
-        <title>Login Page</title>
-        <link rel="stylesheet" href="logindesign.css">
-    </head>
-<body>
-<div class="banner">
-    <img src="https://www.freepngimg.com/thumb/bugs/7-2-bug-png-6.png" alt="Bug" align="right" class="logo"><br>
-    <h1 align="left" >&nbsp;Bug tracking system</h1>
-    <h4>&emsp;T01-G10 CSIT314 Group Project</h4>
-</div><br>
-<div class="loginform" >
-<form>
-    <br>
-    <h2>Login</h2><br>
-    <img src="https://e7.pngegg.com/pngimages/931/209/png-clipart-computer-icons-symbol-avatar-logo-person-with-helmut-miscellaneous-black.png" alt="Avatar" class="avatar"><br><br>
-    <label for="uname">Username: </label>
-    <input type="text" id="uname" placeholder="Enter username" required><br><br>
-    <label for="pword">Password: </label>
-    <input type="password" id="pword" placeholder="Enter password" required><br><br>
-    <label for="usertype">Login as:  </label>
-    <select id="usertype" name="users">
-        <option value="bugreporter">Bug Reporter</option>
-        <option value="triager">Triager</option>
-        <option value="developer">Developer</option>
-        <option value="reviewer">Reviewer</option>
-    </select><br><br>
-    <button onclick="document.location='register.html'">Register</button>&emsp;
-    <button type="submit">Login</button>
-</form>
-</div>
-</body>
+	<head>
+		<title>Login Form Tutorial</title>
+		<style>
+		.login-form {
+			width: 300px;
+			margin: 0 auto;
+			font-family: Tahoma, Geneva, sans-serif;
+		}
+		.login-form h1 {
+			text-align: center;
+			color: #4d4d4d;
+			font-size: 24px;
+			padding: 20px 0 20px 0;
+		}
+		.login-form input[type="password"],
+		.login-form input[type="text"] {
+			width: 100%;
+			padding: 15px;
+			border: 1px solid #dddddd;
+			margin-bottom: 15px;
+			box-sizing:border-box;
+		}
+		.login-form input[type="submit"] {
+			width: 100%;
+			padding: 15px;
+			background-color: #535b63;
+			border: 0;
+			box-sizing: border-box;
+			cursor: pointer;
+			font-weight: bold;
+			color: #ffffff;
+		}
+		</style>
+	</head>
+	<body>
+		<div class="login-form">
+			<h1>Login Form</h1>
+			<form action="auth" method="POST">
+				<input type="text" name="username" placeholder="Username" required>
+				<input type="password" name="password" placeholder="Password" required>
+				<input type="submit">
+			</form>
+		</div>
+	</body>
 </html>
