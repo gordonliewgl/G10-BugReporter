@@ -1,0 +1,218 @@
+{
+  "bugReports": [
+    {
+      "bugID": "BR0001",
+      "bugDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed bibendum turpis. Maecenas a elementum lorem, sed laoreet orci. Pellentesque eleifend aliquet lorem. Curabitur quis gravida nibh. Sed pulvinar elit in nunc cursus, ut egestas felis imperdiet. Sed vel diam quis est posuere dapibus et id ante. Pellentesque sollicitudin tincidunt ipsum nec pretium. Nullam sit amet ultricies ligula. Suspendisse a egestas mi. Integer mi lectus, aliquam vel nisi eu, consectetur commodo neque. In tempor ornare congue. Donec laoreet odio non purus convallis molestie. Mauris ultricies ante sed nisi venenatis vulputate id eget nisi. Praesent eu pharetra orci. Nulla et lorem volutpat arcu finibus accumsan.",
+      "bugStatus": "Fixed",
+      "bugDateReported": "1975-08-19T23:15:30.000Z",
+      "bugLastBumpDate": "2020-08-19T23:15:30.000Z",
+      "bugAssignedTo": "Gordon",
+      "bugComments": [
+        {
+          "name": "Benedict",
+          "role": "Triager",
+          "comment": "aoifjodsjofiawjeofiaodjisf",
+          "commentDate": "2020-08-14T23:15:30.000Z"
+        }
+      ]
+    },
+    {
+      "bugID": "BR0002",
+      "bugDescription": "Integer sagittis ipsum eu tristique rutrum. Quisque dignissim tellus mollis erat convallis porttitor. Fusce aliquet bibendum luctus. Suspendisse porttitor, dolor porta dignissim porttitor, nunc turpis vehicula mauris, at interdum nisl ex non metus. Nullam rutrum enim tellus, eu vehicula enim dictum at. Phasellus cursus magna a urna tinc idunt, eu pretium nisi congue. Duis non tristique sapien. Aliquam erat volutpat. Mauris nec tellus iaculis, varius massa non, tincidunt nibh. Cras pretium, quam eu convallis sollicitudin, nibh orci vulputate augue, quis suscipit nulla ligula in metus.",
+      "bugStatus": "Awaiting Testing",
+      "bugDateReported": "1975-08-19T23:15:30.000Z",
+      "bugLastBumpDate": "2020-08-19T23:15:30.000Z",
+      "bugAssignedTo": "Kim Hao",
+      "bugComments": [
+        {
+          "name": "Laksh",
+          "role": "Developer",
+          "comment": "aoifjodsjofiawjeofiaodjisf",
+          "commentDate": "2020-08-14T23:15:30.000Z"
+        },
+        {
+          "name": "Laksh",
+          "role": "Developer",
+          "comment": "aoifjodsjofiawjeasdawdawdasdofiaodjisf",
+          "commentDate": "2020-08-14T23:15:30.000Z"
+        }
+      ]
+    },
+    {
+      "bugID": "BR0003",
+      "bugDescription": "Mauris viverra leo sit amet faucibus ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi tincidunt mollis erat blandit scelerisque. Vestibulum a eleifend nisl. Sed sagittis ultricies ex vehicula ultrices. Cras laoreet quam quis porttitor ornare. Fusce congue, tortor vitae accumsan hendrerit, lectus sapien iaculis augue, quis vehicula velit velit et ligula. In pharetra enim ut turpis vulputate, at auctor urna consectetur. Phasellus a volutpat dui, vel cursus arcu. Vestibulum bibendum dui in euismod tincidunt.",
+      "bugStatus": "Closed",
+      "bugDateReported": "1975-08-19T23:15:30.000Z",
+      "bugLastBumpDate": "2020-08-19T23:15:30.000Z",
+      "bugAssignedTo": "Gordon",
+      "bugComments": [
+        {
+          "name": "Harsono",
+          "role": "Bug Reporter",
+          "comment": "aoifjodifoajgoiaejrogjoaeirgjoaejrgdsjofiawjeofiaodjisf",
+          "commentDate": "2020-08-14T23:15:30.000Z"
+        }
+      ]
+    },
+    {
+      "bugID": "BR0004",
+      "bugDescription": "She folded her handkerchief neatly.No matter how beautiful the sunset, it saddened her knowing she was one day older.They're playing the piano while flying in the plane.The newly planted trees were held up by wooden frames in hopes they could survive the next storm.The thick foliage and intertwined vines made the hike nearly impossible.The snow-covered path was no help in finding his way out of the back-country.",
+      "bugStatus": "Fixed",
+      "bugDateReported": "1975-08-19T23:15:30.000Z",
+      "bugLastBumpDate": "2020-08-19T23:15:30.000Z",
+      "bugAssignedTo": "Laksh",
+      "bugComments": [
+        {
+          "name": "Benedict",
+          "role": "Triager",
+          "comment": "aoifjodsjofiawjeofiaodjisf",
+          "commentDate": "2020-08-14T23:15:30.000Z"
+        }
+      ]
+    },
+    {
+      "bugID": "BR0005",
+      "bugDescription": "They say that dogs are man's best friend, but this cat was setting out to sabotage that theory. The view from the lighthouse excited even the most seasoned traveler. It had been sixteen days since the zombies first attacked. The book is in front of the table. She used her own hair in the soup to give it more flavor. Random words in front of other random words create a random sentence.",
+      "bugStatus": "Awaiting Testing",
+      "bugDateReported": "1975-08-19T23:15:30.000Z",
+      "bugLastBumpDate": "2020-08-19T23:15:30.000Z",
+      "bugAssignedTo": "Gordon",
+      "bugComments": [
+        {
+          "name": "Kim Hao",
+          "role": "Developer",
+          "comment": "aoifjodsjofiawjdasgargaeofiaodjisf",
+          "commentDate": "2020-08-14T23:15:30.000Z"
+        }
+      ]
+    },
+    {
+      "bugID": "BR0006",
+      "bugDescription": "Joe made the sugar cookies; Susan decorated them. David proudly graduated from high school top of his class at age 97. It took him a month to finish the meal. The Guinea fowl flies through the air with all the grace of a turtle. Even with the snow falling outside, she felt it appropriate to wear her bikini. Three years later, the coffin was still full of Jello.",
+      "bugStatus": "Awaiting Testing",
+      "bugDateReported": "1975-08-19T23:15:30.000Z",
+      "bugLastBumpDate": "2020-08-19T23:15:30.000Z",
+      "bugAssignedTo": "Kim Hao",
+      "bugComments": [
+        {
+          "name": "Laksh",
+          "role": "Developer",
+          "comment": "aoifjodsjofiawgasdfgargjeofiaodjisf",
+          "commentDate": "2020-08-14T23:15:30.000Z"
+        }
+      ]
+    },
+    {
+      "bugID": "BR0007",
+      "bugDescription": "He colored deep space a soft yellow. The teens wondered what was kept in the red shed on the far edge of the school grounds. The newly planted trees were held up by wooden frames in hopes they could survive the next storm. He would only survive if he kept the fire going and he could hear thunder in the distance. The Japanese yen for commerce is still well-known. I was very proud of my nickname throughout high school but today- I couldn’t be any different to what my nickname was.",
+      "bugStatus": "Fixed",
+      "bugDateReported": "1975-08-19T23:15:30.000Z",
+      "bugLastBumpDate": "2020-08-19T23:15:30.000Z",
+      "bugAssignedTo": "Laksh",
+      "bugComments": [
+        {
+          "name": "Benedict",
+          "role": "Triager",
+          "comment": "aoifjodsjofiawjeadsgasgarofiaodjisf",
+          "commentDate": "2020-08-14T23:15:30.000Z"
+        }
+      ]
+    },
+    {
+      "bugID": "BR0008",
+      "bugDescription": "The minute she landed she understood the reason this was a fly-over state. The murder hornet was disappointed by the preconceived ideas people had of him. The thick foliage and intertwined vines made the hike nearly impossible. Jason lived his life by the motto, Anything worth doing is worth doing poorly. They were excited to see their first sloth. The Great Dane looked more like a horse than a dog.",
+      "bugStatus": "Closed",
+      "bugDateReported": "1975-08-19T23:15:30.000Z",
+      "bugLastBumpDate": "2020-08-19T23:15:30.000Z",
+      "bugAssignedTo": "Gordon",
+      "bugComments": [
+        {
+          "name": "Benedict",
+          "role": "Triager",
+          "comment": "aoifjodsjofiaagrgadsgrgewjeofiaodjisf",
+          "commentDate": "2020-08-14T23:15:30.000Z"
+        }
+      ]
+    },
+    {
+      "bugID": "BR0009",
+      "bugDescription": "The best key lime pie is still up for debate. She had that tint of craziness in her soul that made her believe she could actually make a difference. Jeanne wished she has chosen the red button. It took him a while to realize that everything he decided not to change, he was actually choosing. While on the first date he accidentally hit his head on the beam. As he looked out the window, he saw a clown walk by.",
+      "bugStatus": "Fixed",
+      "bugDateReported": "1975-08-19T23:15:30.000Z",
+      "bugLastBumpDate": "2020-08-19T23:15:30.000Z",
+      "bugAssignedTo": "Laksh",
+      "bugComments": [
+        {
+          "name": "Gordon",
+          "role": "Developer",
+          "comment": "aoifjodsjofiawjeadsfgargaofiaodjisf",
+          "commentDate": "2020-08-14T23:15:30.000Z"
+        }
+      ]
+    },
+    {
+      "bugID": "BR0010",
+      "bugDescription": "My Mum tries to be cool by saying that she likes all the same things that I do. It took him a while to realize that everything he decided not to change, he was actually choosing. It is not possible to convince a monkey to give you a banana by promising it infinite bananas when they die. You realize you're not alone as you sit in your bedroom massaging your calves after a long day of playing tug-of-war with Grandpa Joe in the hospital. Every manager should be able to recite at least ten nursery rhymes backward. This book is sure to liquefy your brain. ",
+      "bugStatus": "Awaiting Testing",
+      "bugDateReported": "1975-08-19T23:15:30.000Z",
+      "bugLastBumpDate": "2020-08-19T23:15:30.000Z",
+      "bugAssignedTo": "Kim Hao",
+      "bugComments": [
+        {
+          "name": "Harsono",
+          "role": "Bug Reporter",
+          "comment": "aoifjodsjofiawjdgadarreofiaodjisf",
+          "commentDate": "2020-08-14T23:15:30.000Z"
+        }
+      ]
+    },
+    {
+      "bugID": "BR0011",
+      "bugDescription": "His thought process was on so many levels that he gave himself a phobia of heights. There are not enough towels in the world to stop the sewage flowing from his mouth. All they could see was the blue water surrounding their sailboat. The beauty of the sunset was obscured by the industrial cranes. Never underestimate the willingness of the greedy to throw you under the bus. We need to rent a room for our party.",
+      "bugStatus": "Closed",
+      "bugDateReported": "1975-08-19T23:15:30.000Z",
+      "bugLastBumpDate": "2020-08-19T23:15:30.000Z",
+      "bugAssignedTo": "Gordon",
+      "bugComments": [
+        {
+          "name": "Harsono",
+          "role": "Bug Reporter",
+          "comment": "aoifjodsjofiawdfgsdfgerjeofiaodjisf",
+          "commentDate": "2020-08-14T23:15:30.000Z"
+        }
+      ]
+    },
+    {
+      "bugID": "BR0012",
+      "bugDescription": "I liked their first two albums but changed my mind after that charity gig. The ants enjoyed the barbecue more than the family. Seek success, but always be prepared for random cats. It caught him off guard that space smelled of seared steak. You realize you are not alone as you sit in your bedroom massaging your calves after a long day of playing tug-of-war with Grandpa Joe in the hospital. As time wore on, simple dog commands turned into full paragraphs explaining why the dog couldn’t do something.",
+      "bugStatus": "Closed",
+      "bugDateReported": "1975-08-19T23:15:30.000Z",
+      "bugLastBumpDate": "2020-08-19T23:15:30.000Z",
+      "bugAssignedTo": "Laksh",
+      "bugComments": [
+        {
+          "name": "Benedict",
+          "role": "Triager",
+          "comment": "aoifjodsdsfasdfsafjofiawjeofiaodjisf",
+          "commentDate": "2020-08-14T23:15:30.000Z"
+        }
+      ]
+    },
+    {
+      "bugID": "BR0013",
+      "bugDescription": "Three generations with six decades of life experience. They're playing the piano while flying in the plane. It was the best sandcastle he had ever seen. The opportunity of a lifetime passed before him as he tried to decide between a cone or a cup. They improved dramatically once the lead singer left. She always speaks to him in a loud voice.",
+      "bugStatus": "Awaiting Testing",
+      "bugDateReported": "1975-08-19T23:15:30.000Z",
+      "bugLastBumpDate": "2020-08-19T23:15:30.000Z",
+      "bugAssignedTo": "Kim Hao",
+      "bugComments": [
+        {
+          "name": "Benedict",
+          "role": "Triager",
+          "comment": "aoifjodsjofrthrthrhiawjeofiaodjisf",
+          "commentDate": "2020-08-14T23:15:30.000Z"
+        }
+      ]
+    }
+  ]
+}
