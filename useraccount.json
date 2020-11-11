@@ -299,6 +299,12 @@
          "password":"AmberRCA888&",
          "email":"AmberRCA@school.mymail.com",
          "role":"Reviewer"
-      }
+      },
+      {
+         "username":"HongWC",
+         "password":"HonWong123",
+         "email":"HongWC@school.mymail.com",
+         "role":"Developer"
+     }
    ]
 }
