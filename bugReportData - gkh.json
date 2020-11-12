@@ -1,0 +1,1591 @@
+{
+    "bugReports": [
+        {
+            "bugID":"BR0201",
+            "bugDescription":"Grape jelly was leaking out the hole in the roof.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"1950-06-09T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"Gordon",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiawjeofiaodjisf",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+        {
+            "bugID":"BR0202",
+            "bugDescription":"He loved eating his bananas in hot dog buns.", 
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"1965-08-25T23:15:30.000Z",
+            "bugLastBumpDate":"2010-08-19T23:15:30.000Z",
+            "bugAssignedTo":"KimHao",
+            "bugComments":[
+                {
+                    "name":"Laksh",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjeofiaodjisf",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                },
+                {
+                    "name":"Laksh",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjeasdawdawdasdofiaodjisf",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+        {
+            "bugID":"BR0203",
+            "bugDescription":"He was an introvert that extroverts seemed to love.",
+            "bugStatus":"Closed",
+            "bugDateReported":"1965-05-10T23:15:30.000Z",
+            "bugLastBumpDate":"2000-08-19T23:15:30.000Z",
+            "bugAssignedTo":"Gordon",
+            "bugComments":[
+                {
+                    "name":"Harsono",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodifoajgoiaejrogjoaeirgjoaejrgdsjofiawjeofiaodjisf",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0204",
+            "bugDescription":"The river stole the gods.",
+            "bugStatus":"Open",
+            "bugDateReported":"2000-06-09T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"Laksh",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"juykyndrtcf",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0205",
+            "bugDescription":"Iron pyrite is the most foolish of all minerals.",
+            "bugStatus":"Open",
+            "bugDateReported":"2000-06-09T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"Laksh",
+            "bugComments":[
+                {
+                    "name":"Harsono",
+                    "role":"Bug Reporter",
+                    "comment":"juykyndrtcfkuys",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0206",
+            "bugDescription":"She learned that water bottles are no longer just to hold liquid, but they're also status symbols.",
+            "bugStatus":"Open",
+            "bugDateReported":"2000-06-09T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"Gordon",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"jtydfgnefw",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0207",
+            "bugDescription":"He went back to the video to see what had been recorded and was shocked at what he saw.",
+            "bugStatus":"Open",
+            "bugDateReported":"2000-06-09T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"KimHao",
+            "bugComments":[
+                {
+                    "name":"Edrick",
+                    "role":"Triager",
+                    "comment":"ewdvwhrtjtjdvbwes",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0208",
+            "bugDescription":"He had a wall full of masks so she could wear a different face every day.",
+            "bugStatus":"Open",
+            "bugDateReported":"2000-06-09T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"Laksh",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"juykyfgewssndrtcf",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0209",
+            "bugDescription":"Jeanne wished she has chosen the red button.",
+            "bugStatus":"Open",
+            "bugDateReported":"2000-06-09T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"Gordon",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"jvedwzuykyndrvcdstcf",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0210",
+            "bugDescription":"There are no heroes in a punk rock band.",
+            "bugStatus":"Open",
+            "bugDateReported":"2000-06-09T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"Gordon",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"juykynjuydrtcf",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0211",
+            "bugDescription":"We should play with legos at camp.",
+            "bugStatus":"Open",
+            "bugDateReported":"2000-06-09T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"Mary plays the piano.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0212",
+            "bugDescription":"I am my aunt's sister's daughter.",
+            "bugStatus":"Open",
+            "bugDateReported":"2000-06-09T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"Mary plays the piano.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0213",
+            "bugDescription":"The sudden rainstorm washed crocodiles into the ocean.",
+            "bugStatus":"Open",
+            "bugDateReported":"2000-06-09T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"Mary plays the piano.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0214",
+            "bugDescription":"It was always dangerous to drive with him since he insisted the safety cones were a slalom course.",
+            "bugStatus":"Open",
+            "bugDateReported":"2000-06-09T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"Mary plays the piano.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0215",
+            "bugDescription":"She was the type of girl who wanted to live in a pink house.",
+            "bugStatus":"Open",
+            "bugDateReported":"2000-06-09T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"Mary plays the piano.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0216",
+            "bugDescription":"I checked to make sure that he was still alive.",
+            "bugStatus":"Open",
+            "bugDateReported":"2000-06-09T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"Mary plays the piano.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0217",
+            "bugDescription":"It had been sixteen days since the zombies first attacked.",
+            "bugStatus":"Open",
+            "bugDateReported":"2000-06-09T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"Mary plays the piano.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0218",
+            "bugDescription":"Getting up at dawn is for the birds.",
+            "bugStatus":"Open",
+            "bugDateReported":"2000-06-09T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"Mary plays the piano.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0219",
+            "bugDescription":"I'm a great listener, really good with empathy vs sympathy and all that, but I hate people.",
+            "bugStatus":"Open",
+            "bugDateReported":"2000-06-09T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"Mary plays the piano.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0220",
+            "bugDescription":"There's a message for you if you look up.",
+            "bugStatus":"Open",
+            "bugDateReported":"2000-06-09T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"Mary plays the piano.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0220",
+            "bugDescription":"He excelled at firing people nicely.",
+            "bugStatus":"In Progress",
+            "bugDateReported":"2000-06-10T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0221",
+            "bugDescription":"He had a hidden stash underneath the floorboards in the back room of the house.",
+            "bugStatus":"In Progress",
+            "bugDateReported":"2000-06-10T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0222",
+            "bugDescription":"Two seats were vacant.",
+            "bugStatus":"In Progress",
+            "bugDateReported":"2000-06-10T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0223",
+            "bugDescription":"Jeanne wished she has chosen the red button.",
+            "bugStatus":"In Progress",
+            "bugDateReported":"2000-06-10T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0224",
+            "bugDescription":"Nudist colonies shun fig-leaf couture.",
+            "bugStatus":"In Progress",
+            "bugDateReported":"2000-06-10T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0225",
+            "bugDescription":"Eating eggs on Thursday for choir practice was recommended.",
+            "bugStatus":"In Progress",
+            "bugDateReported":"2000-06-10T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0226",
+            "bugDescription":"Never underestimate the willingness of the greedy to throw you under the bus.",
+            "bugStatus":"In Progress",
+            "bugDateReported":"2000-06-10T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0227",
+            "bugDescription":"The pet shop stocks everything you need to keep your anaconda happy.",
+            "bugStatus":"In Progress",
+            "bugDateReported":"2000-06-10T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0228",
+            "bugDescription":"He put heat on the wound to see what would grow.",
+            "bugStatus":"In Progress",
+            "bugDateReported":"2000-06-10T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0229",
+            "bugDescription":"She lived on Monkey Jungle Road and that seemed to explain all of her strangeness.",
+            "bugStatus":"In Progress",
+            "bugDateReported":"2000-06-10T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0230",
+            "bugDescription":"She finally understood that grief was her love with no place for it to go.",
+            "bugStatus":"In Progress",
+            "bugDateReported":"2000-06-10T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0231",
+            "bugDescription":"There were three sphered rocks congregating in a cubed room.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2000-06-12T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-10T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"This book is sure to liquefy your brain.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0232",
+            "bugDescription":"He picked up trash in his spare time to dump in his neighbor's yard.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2000-06-12T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-10T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"This book is sure to liquefy your brain.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0233",
+            "bugDescription":"Not all people who wander are lost.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2000-06-12T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-10T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"This book is sure to liquefy your brain.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0234",
+            "bugDescription":"She wanted a pet platypus but ended up getting a duck and a ferret instead.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2000-06-12T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-10T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"This book is sure to liquefy your brain.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0235",
+            "bugDescription":"his seven-layer cake only had six layers.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2000-06-12T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-10T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"This book is sure to liquefy your brain.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0236",
+            "bugDescription":"He poured rocks in the dungeon of his mind.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2000-06-12T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-10T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"This book is sure to liquefy your brain.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0237",
+            "bugDescription":"The Japanese yen for commerce is still well-known.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2000-06-12T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-10T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"This book is sure to liquefy your brain.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0238",
+            "bugDescription":"The fog was so dense even a laser decided it wasn't worth the effort.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2000-06-12T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-10T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"This book is sure to liquefy your brain.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0239",
+            "bugDescription":"Charles ate the french fries knowing they would be his last meal.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2000-06-12T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-10T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"This book is sure to liquefy your brain.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0240",
+            "bugDescription":"Writing a list of random sentences is harder than I initially thought it would be.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2000-06-12T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-10T23:15:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"This book is sure to liquefy your brain.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0241",
+            "bugDescription":"Plans for this weekend include turning wine into water.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2000-06-15T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0242",
+            "bugDescription":"Bill ran from the giraffe toward the dolphin.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2000-06-15T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0243",
+            "bugDescription":"They ran around the corner to find that they had traveled back in time.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2000-06-15T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0244",
+            "bugDescription":"Don't piss in my garden and tell me you're trying to help my plants grow.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2000-06-15T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0245",
+            "bugDescription":"I come from a tribe of head-hunters, so I will never need a shrink.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2000-06-15T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0246",
+            "bugDescription":"There's a reason that roses have thorns.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2000-06-15T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0247",
+            "bugDescription":"The thunderous roar of the jet overhead confirmed her worst fears.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2000-06-15T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0248",
+            "bugDescription":"When transplanting seedlings, candied teapots will make the task easier.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2000-06-15T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0249",
+            "bugDescription":"Don't step on the broken glass.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2000-06-15T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0250",
+            "bugDescription":"The hand sanitizer was actually clear glue.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2000-06-15T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"He appeared to be confusingly perplexed.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0251",
+            "bugDescription":"The clock within this blog and the clock on my laptop are 1 hour different from each other.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"He poured rocks in the dungeon of his mind.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0252",
+            "bugDescription":"It would have been a better night if the guys next to us weren't in the splash zone.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"He poured rocks in the dungeon of his mind.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0253",
+            "bugDescription":"Traveling became almost extinct during the pandemic.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"He poured rocks in the dungeon of his mind.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0254",
+            "bugDescription":"It took him a while to realize that everything he decided not to change, he was actually choosing.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"He poured rocks in the dungeon of his mind.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0255",
+            "bugDescription":"There was no telling what thoughts would come from the machine.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"He poured rocks in the dungeon of his mind.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0256",
+            "bugDescription":"Nobody loves a pig wearing lipstick.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"He poured rocks in the dungeon of his mind.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0257",
+            "bugDescription":"I hear that Nancy is very pretty.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"He poured rocks in the dungeon of his mind.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0258",
+            "bugDescription":"I like to leave work after my eight-hour tea-break.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"He poured rocks in the dungeon of his mind.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0259",
+            "bugDescription":"He was so preoccupied with whether or not he could that he failed to stop to consider if he should.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"He poured rocks in the dungeon of his mind.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0260",
+            "bugDescription":"When money was tight, he'd get his lunch money from the local wishing well.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"He poured rocks in the dungeon of his mind.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0261",
+            "bugDescription":"He decided to live his life by the big beats manifesto.",
+            "bugStatus":"Open",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"Shakespeare was a famous 17th-century diesel mechanic.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0262",
+            "bugDescription":"Sixty-Four comes asking for bread.",
+            "bugStatus":"Open",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0263",
+            "bugDescription":"If I don’t like something, I’ll stay away from it.",
+            "bugStatus":"Open",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"Patricia loves the sound of nails strongly pressed against the chalkboard.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0264",
+            "bugDescription":"When he had to picnic on the beach, he purposely put sand in other people’s food.",
+            "bugStatus":"Open",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"It was a slippery slope and he was willing to slide all the way to the deepest depths.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0265",
+            "bugDescription":"They wandered into a strange Tiki bar on the edge of the small beach town.",
+            "bugStatus":"Open",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"No matter how beautiful the sunset, it saddened her knowing she was one day older.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0266",
+            "bugDescription":"The quick brown fox jumps over the lazy dog.",
+            "bugStatus":"Open",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"Everyone was curious about the large white blimp that appeared overnight.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0267",
+            "bugDescription":"He decided to fake his disappearance to avoid jail.",
+            "bugStatus":"Open",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"Andy loved to sleep on a bed of nails.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0268",
+            "bugDescription":"The sky is clear; the stars are twinkling.",
+            "bugStatus":"Open",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"I am happy to take your donation; any amount will be greatly appreciated.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0269",
+            "bugDescription":"All you need to do is pick up the pen and begin.",
+            "bugStatus":"Open",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"Most shark attacks occur about 10 feet from the beach since that's where the people are.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0270",
+            "bugDescription":"The fifty mannequin heads floating in the pool kind of freaked them out.",
+            "bugStatus":"Open",
+            "bugDateReported":"2003-04-29T23:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T23:15:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"Martha came to the conclusion that shake weights are a great gift for any occasion.",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0271",
+            "bugDescription":"The sudden rainstorm washed crocodiles into the ocean.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"KimHao",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"The newly planted trees were held up by wooden frames in hopes they could survive the next storm.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0272",
+            "bugDescription":"She wasn't sure whether to be impressed or concerned that he folded underwear in neat little packages.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"KimHao",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"The gruff old man sat in the back of the bait shop grumbling to himself as he scooped out a handful of worms.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0273",
+            "bugDescription":"Today is the day I'll finally know what brick tastes like.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"KimHao",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"He drank life before spitting it out.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0274",
+            "bugDescription":"Please wait outside of the house.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"KimHao",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"Pink horses galloped across the sea.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0275",
+            "bugDescription":"She looked at the masterpiece hanging in the museum but all she could think is that her five-year-old could do better.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"KimHao",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"Flying fish few by the space station.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0276",
+            "bugDescription":"You realize you're not alone as you sit in your bedroom massaging your calves after a long day of playing tug-of-war with Grandpa Joe in the hospital.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"KimHao",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"The fish dreamed of escaping the fishbowl and into the toilet where he saw his friend go.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0277",
+            "bugDescription":"Two seats were vacant.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"KimHao",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"We will not allow you to bring your pet armadillo along.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0278",
+            "bugDescription":"Poison ivy grew through the fence they said was impenetrable.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"KimHao",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"The pet shop stocks everything you need to keep your anaconda happy.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0279",
+            "bugDescription":"Toddlers feeding raccoons surprised even the seasoned park ranger.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"KimHao",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"He quietly entered the museum as the super bowl started.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0280",
+            "bugDescription":"There was no telling what thoughts would come from the machine.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"KimHao",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"I am my aunt's sister's daughter.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0281",
+            "bugDescription":"The tattered work gloves speak of the many hours of hard labor he endured throughout his life.",
+            "bugStatus":"Open",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"I am never at home on Sundays.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0282",
+            "bugDescription":"He didn't understand why the bird wanted to ride the bicycle.",
+            "bugStatus":"Open",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0283",
+            "bugDescription":"Sometimes you have to just give up and win by cheating.",
+            "bugStatus":"Open",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"Flesh-colored yoga pants were far worse than even he feared.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0284",
+            "bugDescription":"Charles ate the french fries knowing they would be his last meal.",
+            "bugStatus":"Open",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"It was the best sandcastle he had ever seen.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0285",
+            "bugDescription":"Excitement replaced fear until the final moment.",
+            "bugStatus":"Open",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"She tilted her head back and let whip cream stream into her mouth while taking a bath.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0286",
+            "bugDescription":"She learned that water bottles are no longer just to hold liquid, but they're also status symbols.",
+            "bugStatus":"Open",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"I am counting my calories, yet I really want dessert.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0287",
+            "bugDescription":"There were three sphered rocks congregating in a cubed room.",
+            "bugStatus":"Open",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"Please tell me you don't work in a morgue.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0288",
+            "bugDescription":"Happiness can be found in the depths of chocolate pudding.",
+            "bugStatus":"Open",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"The group quickly understood that toxic waste was the most effective barrier to use against the zombies.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0289",
+            "bugDescription":"Swim at your own risk was taken as a challenge for the group of Kansas City college students.",
+            "bugStatus":"Open",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"The teens wondered what was kept in the red shed on the far edge of the school grounds.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0290",
+            "bugDescription":"Pantyhose and heels are an interesting choice of attire for the beach.",
+            "bugStatus":"Open",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"Lightning Paradise was the local hangout joint where the group usually ended up spending the night.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0291",
+            "bugDescription":"She was sad to hear that fireflies are facing extinction due to artificial light, habitat loss, and pesticides.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2015-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[]
+        },
+		{
+            "bugID":"BR0292",
+            "bugDescription":"Eating eggs on Thursday for choir practice was recommended.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2015-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[]
+        },
+		{
+            "bugID":"BR0293",
+            "bugDescription":"It was obvious she was hot, sweaty, and tired.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2015-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[
+				{
+                    "name":"AdelineFGH12",
+                    "role":"Reviewer",
+                    "comment":"The Japanese yen for commerce is still well-known.",
+                    "commentDate":"2020-10-05T23:14:00.000Z"
+                }
+			]
+        },
+		{
+            "bugID":"BR0294",
+            "bugDescription":"25 years later, she still regretted that specific moment.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2015-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[
+				{
+                    "name":"AdelineFGH12",
+                    "role":"Reviewer",
+                    "comment":"Had he known what was going to happen, he would have never stepped into the shower.",
+                    "commentDate":"2020-10-05T23:14:00.000Z"
+                }
+			]
+        },
+		{
+            "bugID":"BR0295",
+            "bugDescription":"He ended up burning his fingers poking someone else's fire.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2015-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[]
+        },
+		{
+            "bugID":"BR0296",
+            "bugDescription":"The father died during childbirth.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2015-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[
+				{
+                    "name":"AdelineFGH12",
+                    "role":"Reviewer",
+                    "comment":"Yeah, I think it's a good environment for learning English.",
+                    "commentDate":"2020-10-05T23:14:00.000Z"
+                }
+			]
+        },
+		{
+            "bugID":"BR0297",
+            "bugDescription":"You have every right to be angry, but that doesn't give you the right to be mean.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2015-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[]
+        },
+		{
+            "bugID":"BR0298",
+            "bugDescription":"I’m a living furnace.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2015-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[
+				{
+                    "name":"AdelineFGH12",
+                    "role":"Reviewer",
+                    "comment":"You'll see the rainbow bridge after it rains cats and dogs.",
+                    "commentDate":"2020-10-05T23:14:00.000Z"
+                }
+			]
+        },
+		{
+            "bugID":"BR0299",
+            "bugDescription":"Pair your designer cowboy hat with scuba gear for a memorable occasion.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2015-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[
+				{
+                    "name":"AdelineFGH12",
+                    "role":"Reviewer",
+                    "comment":"The Tsunami wave crashed against the raised houses and broke the pilings as if they were toothpicks.",
+                    "commentDate":"2020-10-05T23:14:00.000Z"
+                }
+			]
+        },
+		{
+            "bugID":"BR0300",
+            "bugDescription":"Excitement replaced fear until the final moment.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2015-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[]
+        }
+    ]
+}
