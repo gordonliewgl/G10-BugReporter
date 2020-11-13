@@ -94,6 +94,8 @@ h2 {
 
 .dateLabel {
     float: left;
+    padding-left: 100px;
+    margin-top: 80px;
 }
 
 .dateBox {
@@ -102,6 +104,8 @@ h2 {
 
 .bumpLabel {
     float: left;
+    padding-left: 100px;
+    margin-top: 80px;
 }
 
 .bumpBox {
@@ -110,6 +114,8 @@ h2 {
 
 .assignLabel {
     float: left;
+    padding-left: 100px;
+    margin-top: 80px;
 }
 
 .assignBox {
@@ -117,7 +123,9 @@ h2 {
 }
 
 .comLabel {
-    float: left;
+    padding-left: 150px;
+    margin-top: 200px;
+    margin-top: 80px;
 }
 
 .comBox {
