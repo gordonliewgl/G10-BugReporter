@@ -66,15 +66,25 @@ h2 {
 }
 
 .bugID {
-    padding-left: 200px;
+    padding-left: 220px;
 }
 
 .bugDesLabel {
     float: left;
-    padding-left:190px;
+    padding-left: 190px;
 }
 
 .bugDesBox {
     float: right;
-    padding-right:300px;
+    padding-right: 300px;
+}
+
+.statLabel {
+    padding-left: 220px;
+    margin-top: 70px;
+}
+
+.statBox {
+    margin-top: 130px;
+    margin-left: 10px;
 }
