@@ -21,7 +21,10 @@
     <label for="datereport" class="dateLabel">Date Reported: </label>&emsp;&emsp;
     <label for="bumpdate" class="bumpLabel">Last Bump Date: </label>&emsp;&emsp;
     <label for="assigned" class="assignLabel">Assigned to: </label><br><br>
-    <input type="text" id="status">&emsp;&emsp;
+    <select id="statustype" name="status" class="statBox">
+        <option value="open">Open</option>
+        <option value="close">Close</option>
+    </select>&emsp;&emsp;
     <input type="text" id="datereport">&emsp;&emsp;
     <input type="text" id="bumpdate">&emsp;&emsp;
     <input type="text" id="assigned"><br><br>
