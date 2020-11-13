@@ -25,9 +25,13 @@
         <option value="open">Open</option>
         <option value="close">Close</option>
     </select>
-    <input type="text" id="datereport">
-    <input type="text" id="bumpdate">
-    <input type="text" id="assigned"><br><br>
+    <input type="text" id="datereport" class="dateBox">
+    <input type="text" id="bumpdate" class="bumpBox">
+    <select id="assignedTo" name="assigned" class="assignBox">
+        <option value="gordon">Gordon</option>
+        <option value="kimhao">Kim Hao</option>
+        <option value="laksh">Laksh</option>
+    </select><br><br>
     <label for="comment" class="comLabel">Comment: </label><br><br>
     <textarea id="comment" rows="10" cols="50" class="comBox" placeholder="Fill in the comment" required></textarea><br><br>
     <button type="submit">Save</button>&emsp;
