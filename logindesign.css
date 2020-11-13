@@ -80,54 +80,10 @@ h2 {
     margin-right: 50px;
 }
 
-.statLabel {
-    padding-left: 150px;
-    margin-top: 200px;
-    float: left;
+.row {
+    display: flex;
 }
 
-.statBox {
-    float: right;
-    margin-top: 130px;
-    padding-right: 40px;
-}
-
-.dateLabel {
-    float: left;
-    padding-left: 100px;
-    margin-top: 80px;
-}
-
-.dateBox {
-    float: right;
-}
-
-.bumpLabel {
-    float: left;
-    padding-left: 100px;
-    margin-top: 80px;
-}
-
-.bumpBox {
-    float: right;
-}
-
-.assignLabel {
-    float: left;
-    padding-left: 100px;
-    margin-top: 80px;
-}
-
-.assignBox {
-    float: right;
-}
-
-.comLabel {
-    padding-left: 150px;
-    margin-top: 200px;
-    margin-top: 80px;
-}
-
-.comBox {
-    float: right;
+.column {
+  flex: 50%;
 }
