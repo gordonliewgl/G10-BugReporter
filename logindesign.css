@@ -42,7 +42,6 @@ h2 {
     top: 50%;
     left: 10%;
     box-sizing: border-box;
-    text-align: center;
 }
 
 .logo {
@@ -67,7 +66,7 @@ h2 {
 }
 
 .bugID {
-    padding-right: 500px;
+    padding-left: 200px;
 }
 
 .bugDesLabel {
