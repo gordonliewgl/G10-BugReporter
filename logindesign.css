@@ -95,13 +95,15 @@ h2 {
     white-space: nowrap;
 }
 
-.comBox {
+.comLabel {
     float: left;
     padding-left: 190px;
 }
 
-.comLabel {
+.comBox {
     float: right;
     padding-right: 250px;
     margin-right: 50px;
 }
+
+
