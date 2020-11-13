@@ -17,21 +17,23 @@
     <label for="id" class="bugID" >Bug ID: </label><br><br>
     <label for="description" class="bugDesLabel">Description: </label>
     <textarea id="description" rows="10" cols="50" class="bugDesBox" placeholder="Details of the bug" required></textarea><br><br>
-    <label for="status" class="statLabel">Status: </label>
-    <label for="datereport" class="dateLabel">Date Reported: </label>
-    <label for="bumpdate" class="bumpLabel">Last Bump Date: </label>
-    <label for="assigned" class="assignLabel">Assigned to: </label><br><br>
-    <select id="statustype" name="status" class="statBox">
-        <option value="open">Open</option>
-        <option value="close">Close</option>
-    </select>
-    <input type="text" id="datereport" class="dateBox">
-    <input type="text" id="bumpdate" class="bumpBox">
-    <select id="assignedTo" name="assigned" class="assignBox">
-        <option value="gordon">Gordon</option>
-        <option value="kimhao">Kim Hao</option>
-        <option value="laksh">Laksh</option>
-    </select><br><br>
+    <div class="row">
+        <label for="status" class="statLabel">Status: </label>
+        <select id="statustype" name="status" class="statBox">
+            <option value="open">Open</option>
+            <option value="close">Close</option>
+        </select>
+        <label for="datereport" class="dateLabel">Date Reported: </label>
+        <input type="text" id="datereport" class="dateBox">
+        <label for="bumpdate" class="bumpLabel">Last Bump Date: </label>
+        <input type="text" id="bumpdate" class="bumpBox">
+        <label for="assigned" class="assignLabel">Assigned to: </label><br><br>
+        <select id="assignedTo" name="assigned" class="assignBox">
+            <option value="gordon">Gordon</option>
+            <option value="kimhao">Kim Hao</option>
+            <option value="laksh">Laksh</option>
+        </select><br><br>
+    </div>
     <label for="comment" class="comLabel">Comment: </label><br><br>
     <textarea id="comment" rows="10" cols="50" class="comBox" placeholder="Fill in the comment" required></textarea><br><br>
     <button type="submit">Save</button>&emsp;
