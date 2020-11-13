@@ -14,19 +14,19 @@
 <form>
     <br>
     <h2>Reporting a bug</h2><br><br>
-    <label for="id">Bug ID: </label><br><br>
-    <label for="description">Description: </label><br><br>
-    <input type="text" id="description" placeholder="Details of the bug" required><br><br>
-    <label for="status">Status: </label>&emsp;&emsp;
-    <label for="datereport">Date Reported: </label>&emsp;&emsp;
-    <label for="bumpdate">Last Bump Date: </label>&emsp;&emsp;
-    <label for="assigned">Assigned to: </label><br><br>
+    <label for="id" class="bugID" >Bug ID: </label><br><br>
+    <label for="description" class="bugDesLabel">Description: </label><br><br>
+    <textarea id="description" rows="10" cols="50" class="bugDesBox" placeholder="Details of the bug" required><br><br>
+    <label for="status" class="statLabel">Status: </label>&emsp;&emsp;
+    <label for="datereport" class="dateLabel">Date Reported: </label>&emsp;&emsp;
+    <label for="bumpdate" class="bumpLabel">Last Bump Date: </label>&emsp;&emsp;
+    <label for="assigned" class="assignLabel">Assigned to: </label><br><br>
     <input type="text" id="status">&emsp;&emsp;
     <input type="text" id="datereport">&emsp;&emsp;
     <input type="text" id="bumpdate">&emsp;&emsp;
     <input type="text" id="assigned"><br><br>
-    <label for="description">Comment: </label><br><br>
-    <input type="text" id="comment" placeholder="Fill in the comment" required><br><br>
+    <label for="comment" class="comLabel">Comment: </label><br><br>
+    <textarea id="comment" rows="10" cols="50" class="comBox" placeholder="Fill in the comment" required><br><br>
     <button type="submit">Save</button>&emsp;
     <button type="cancel">cancel</button>
 </form>
