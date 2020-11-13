@@ -89,3 +89,7 @@ h2 {
     margin-top: 150px;
     margin-left: 100px;
 }
+
+.assignLabel {
+    word-wrap: normal;
+}
