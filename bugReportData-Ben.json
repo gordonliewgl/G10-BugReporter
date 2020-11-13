@@ -1,0 +1,1603 @@
+        {"bugReports":[
+		{
+            "bugID":"BR0001",
+            "bugDescription":"She can live her life however she wants as long as she listens to what I have to say. Three years later, the coffin was still full of Jello. Malls are great places to shop; I can find everything I need under one roof. He always wore his sunglasses at night. Her hair was windswept as she rode in the black convertible.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-07-01T09:12:00.000Z",
+            "bugLastBumpDate":"2020-07-12T15:45:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiawjbvsdfsfreofiaodjisf",
+                    "commentDate":"2020-07-01T16:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0002",
+            "bugDescription":"The delicious aroma from the kitchen was ruined by cigarette smoke. While on the first date he accidentally hit his head on the beam. He was so preoccupied with whether or not he could that he failed to stop to consider if he should. I purchased a baby clown from the Russian terrorist black market. He drank life before spitting it out.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-07-02T09:15:30.000Z",
+            "bugLastBumpDate":"2020-08-01T15:45:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"developer3",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjdasgargaeofiaodjisf",
+                    "commentDate":"2020-07-15T16:25:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0003",
+            "bugDescription":"The complicated school homework left the parents trying to help their kids quite confused. The thick foliage and intertwined vines made the hike nearly impossible. Malls are great places to shop; I can find everything I need under one roof. She only paints with bold colors; she does not like pastels. She says she has the ability to hear the soundtrack of your life.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-07-03T18:11:00.000Z",
+            "bugLastBumpDate":"2020-07-10T19:15:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"developer1",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawgasdfgargjeofiaodjisf",
+                    "commentDate":"2020-07-05T15:25:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0004",
+            "bugDescription":"She folded her handkerchief neatly.No matter how beautiful the sunset, it saddened her knowing she was one day older.They're playing the piano while flying in the plane.The newly planted trees were held up by wooden frames in hopes they could survive the next storm.The thick foliage and intertwined vines made the hike nearly impossible.The snow-covered path was no help in finding his way out of the back-country.",
+            "bugStatus":"Open",
+            "bugDateReported":"2020-07-10T15:10:00.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiawjbvsdfsfreofiaodjisf",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0005",
+            "bugDescription":"They say that dogs are man's best friend, but this cat was setting out to sabotage that theory. The view from the lighthouse excited even the most seasoned traveler. It had been sixteen days since the zombies first attacked. The book is in front of the table. She used her own hair in the soup to give it more flavor. Random words in front of other random words create a random sentence.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-07-10T17:15:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"developer3",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjdasgargaeofiaodjisf",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0006",
+            "bugDescription":"Joe made the sugar cookies; Susan decorated them. David proudly graduated from high school top of his class at age 97. It took him a month to finish the meal. The Guinea fowl flies through the air with all the grace of a turtle. Even with the snow falling outside, she felt it appropriate to wear her bikini. Three years later, the coffin was still full of Jello.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-07-15T10:11:00.000Z",
+            "bugLastBumpDate":"2020-08-10T20:15:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"developer1",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawgasdfgargjeofiaodjisf",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0007",
+            "bugDescription":"He colored deep space a soft yellow. The teens wondered what was kept in the red shed on the far edge of the school grounds. The newly planted trees were held up by wooden frames in hopes they could survive the next storm. He would only survive if he kept the fire going and he could hear thunder in the distance. The Japanese yen for commerce is still well-known. I was very proud of my nickname throughout high school but today- I couldn’t be any different to what my nickname was.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-07-09T15:00:00.000Z",
+            "bugLastBumpDate":"2020-07-19T23:15:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiawjeadsgasgarofiaodjisf",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0008",
+            "bugDescription":"The minute she landed she understood the reason this was a fly-over state. The murder hornet was disappointed by the preconceived ideas people had of him. The thick foliage and intertwined vines made the hike nearly impossible. Jason lived his life by the motto, Anything worth doing is worth doing poorly. They were excited to see their first sloth. The Great Dane looked more like a horse than a dog.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-07-10T15:10:00.000Z",
+            "bugLastBumpDate":"2020-08-10T23:55:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiaagrgadsgrgewjeofiaodjisf",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0009",
+            "bugDescription":"The best key lime pie is still up for debate. She had that tint of craziness in her soul that made her believe she could actually make a difference. Jeanne wished she has chosen the red button. It took him a while to realize that everything he decided not to change, he was actually choosing. While on the first date he accidentally hit his head on the beam. As he looked out the window, he saw a clown walk by.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-08-10T10:15:00.000Z",
+            "bugLastBumpDate":"2020-09-19T20:15:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"developer2",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjeadsfgargaofiaodjisf",
+                    "commentDate":"2020-09-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0010",
+            "bugDescription":"My Mum tries to be cool by saying that she likes all the same things that I do. It took him a while to realize that everything he decided not to change, he was actually choosing. It is not possible to convince a monkey to give you a banana by promising it infinite bananas when they die. You realize you're not alone as you sit in your bedroom massaging your calves after a long day of playing tug-of-war with Grandpa Joe in the hospital. Every manager should be able to recite at least ten nursery rhymes backward. This book is sure to liquefy your brain. ",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-07-01T16:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T19:15:00.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawjdgadarreofiaodjisf",
+                    "commentDate":"2020-08-17T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0011",
+            "bugDescription":"His thought process was on so many levels that he gave himself a phobia of heights. There are not enough towels in the world to stop the sewage flowing from his mouth. All they could see was the blue water surrounding their sailboat. The beauty of the sunset was obscured by the industrial cranes. Never underestimate the willingness of the greedy to throw you under the bus. We need to rent a room for our party.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-08-10T10:10:00.000Z",
+            "bugLastBumpDate":"2020-09-09T08:14:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawdfgsdfgerjeofiaodjisf",
+                    "commentDate":"2020-08-10T10:10:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0012",
+            "bugDescription":"I liked their first two albums but changed my mind after that charity gig. The ants enjoyed the barbecue more than the family. Seek success, but always be prepared for random cats. It caught him off guard that space smelled of seared steak. You realize you are not alone as you sit in your bedroom massaging your calves after a long day of playing tug-of-war with Grandpa Joe in the hospital. As time wore on, simple dog commands turned into full paragraphs explaining why the dog couldn’t do something.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-07-10T15:10:00.000Z",
+            "bugLastBumpDate":"2020-07-19T15:15:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsdsfasdfsafjofiawjeofiaodjisf",
+                    "commentDate":"2020-07-10T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0013",
+            "bugDescription":"Three generations with six decades of life experience. They're playing the piano while flying in the plane. It was the best sandcastle he had ever seen. The opportunity of a lifetime passed before him as he tried to decide between a cone or a cup. They improved dramatically once the lead singer left. She always speaks to him in a loud voice.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-08-10T15:10:00.000Z",
+            "bugLastBumpDate":"2020-08-19T16:15:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofrthrthrhiawjeofiaodjisf",
+                    "commentDate":"2020-08-13T13:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0014",
+            "bugDescription":"This book is sure to liquefy your brain. He was sure the Devil created red sparkly glitter. He kept telling himself that one day it would all somehow make sense. Plans for this weekend include turning wine into water. My dentist tells me that chewing bricks is very bad for your teeth.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-07-10T15:10:00.000Z",
+            "bugLastBumpDate":"2020-09-19T15:15:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawjbvsdfsfreofiaodjisf",
+                    "commentDate":"2020-09-14T08:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0015",
+            "bugDescription":"They say that dogs are man's best friend, but this cat was setting out to sabotage that theory. There were three sphered rocks congregating in a cubed room. It was at that moment that he learned there are certain parts of the body that you should never Nair. The old apple revels in its authority. She saw the brake lights, but not in time.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-07-10T15:10:00.000Z",
+            "bugLastBumpDate":"2020-08-15T17:15:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"developer2",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjdasgargaeofiaodjisf",
+                    "commentDate":"2020-07-14T16:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0016",
+            "bugDescription":"He was the type of guy who liked Christmas lights on his house in the middle of July. While on the first date he accidentally hit his head on the beam. 8% of 25 is the same as 25% of 8 and one of them is much easier to do in your head. Thigh-high in the water, the fisherman’s hope for dinner soon turned to despair. You'll see the rainbow bridge after it rains cats and dogs. ",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-09-10T18:10:00.000Z",
+            "bugLastBumpDate":"2020-10-19T17:15:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"developer1",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawgasdfgargjeofiaodjisf",
+                    "commentDate":"2020-09-23T14:30:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0017",
+            "bugDescription":"Red is greener than purple, for sure. The ants enjoyed the barbecue more than the family. He is good at eating pickles and telling women about his emotional problems. He liked to play with words in the bathtub. She moved forward only because she trusted that the ending she now was going through must be followed by a new beginning.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-08-01T16:10:00.000Z",
+            "bugLastBumpDate":"2020-08-19T22:15:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiawjeadsgasgarofiaodjisf",
+                    "commentDate":"2020-08-14T15:05:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0018",
+            "bugDescription":"Sixty-Four comes asking for bread. She always speaks to him in a loud voice. She wrote him a long letter, but he didn't read it. When I cook spaghetti, I like to boil it a few minutes past al dente so the noodles are super slippery. The small white buoys marked the location of hundreds of crab pots.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-07-10T15:10:00.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"developer3",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiaagrgadsgrgewjeofiaodjisf",
+                    "commentDate":"2020-08-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0019",
+            "bugDescription":"I would be delighted if the sea were full of cucumber juice. The lake is a long way from here. She is never happy until she finds something to be unhappy about; then, she is overjoyed. Don't put peanut butter on the dog's nose. We should play with legos at camp.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-05-10T12:10:00.000Z",
+            "bugLastBumpDate":"2020-07-19T20:17:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"developer2",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjeadsfgargaofiaodjisf",
+                    "commentDate":"2020-06-14T10:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0020",
+            "bugDescription":"Behind the window was a reflection that only instilled fear. He waited for the stop sign to turn to a go sign. Abstraction is often one floor above you. I am happy to take your donation; any amount will be greatly appreciated. Flying fish few by the space station.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-08-20T09:10:00.000Z",
+            "bugLastBumpDate":"2020-09-10T15:15:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawjdgadarreofiaodjisf",
+                    "commentDate":"2020-08-29T20:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0021",
+            "bugDescription":"Excitement replaced fear until the final moment. As the rental car rolled to a stop on the dark road, her fear increased by the moment. He liked to play with words in the bathtub. Just go ahead and press that button. I love bacon, beer, birds, and baboons.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-07-05T12:10:00.000Z",
+            "bugLastBumpDate":"2020-08-26T14:15:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"developer2",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawdfgsdfgerjeofiaodjisf",
+                    "commentDate":"2020-08-06T15:07:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0022",
+            "bugDescription":"Lucifer was surprised at the amount of life at Death Valley. When I was little I had a car door slammed shut on my hand and I still remember it quite vividly. On a scale from one to ten, what's your favorite flavor of random grammar? Malls are great places to shop; I can find everything I need under one roof. Standing on one's head at job interviews forms a lasting impression.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-09-01T13:10:00.000Z",
+            "bugLastBumpDate":"2020-10-01T17:15:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsdsfasdfsafjofiawjeofiaodjisf",
+                    "commentDate":"2020-09-14T17:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0023",
+            "bugDescription":"He learned the important lesson that a picnic at the beach on a windy day is a bad idea. The team members were hard to tell apart since they all wore their hair in a ponytail. Love is not like pizza. I hear that Nancy is very pretty. I like to leave work after my eight-hour tea-break.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-08-08T05:06:00.000Z",
+            "bugLastBumpDate":"2020-08-15T14:16:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofrthrthrhiawjeofiaodjisf",
+                    "commentDate":"2020-08-09T16:45:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0024",
+            "bugDescription":"Sometimes I stare at a door or a wall and I wonder what is this reality, why am I alive, and what is this all about? He kept telling himself that one day it would all somehow make sense. Poison ivy grew through the fence they said was impenetrable. She couldn't decide of the glass was half empty or half full so she drank it. Random words in front of other random words create a random sentence.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-07-10T15:10:00.000Z",
+            "bugLastBumpDate":"2020-07-15T19:15:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawjbvsdfsfreofiaodjisf",
+                    "commentDate":"2020-07-14T14:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0025",
+            "bugDescription":"I often see the time 11:11 or 12:34 on clocks. He took one look at what was under the table and noped the hell out of there. If my calculator had a history, it would be more embarrassing than my browser history. Car safety systems have come a long way, but he was out to prove they could be outsmarted. When motorists sped in and out of traffic, all she could think of was those in need of a transplant.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-07-10T12:10:00.000Z",
+            "bugLastBumpDate":"2020-08-17T21:15:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"developer3",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjdasgargaeofiaodjisf",
+                    "commentDate":"2020-08-04T20:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0026",
+            "bugDescription":"The newly planted trees were held up by wooden frames in hopes they could survive the next storm. She let the balloon float up into the air with her hopes and dreams. That was how he came to win $1 million. She only paints with bold colors; she does not like pastels. People who insist on picking their teeth with their elbows are so annoying!",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-07-05T12:10:00.000Z",
+            "bugLastBumpDate":"2020-08-15T20:15:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"developer1",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawgasdfgargjeofiaodjisf",
+                    "commentDate":"2020-08-12T17:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0027",
+            "bugDescription":"This made him feel like an old-style rootbeer float smells. She looked into the mirror and saw another person. She always speaks to him in a loud voice. I want to buy a onesie… but know it won’t suit me. There are few things better in life than a slice of pie.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-07-07T09:10:00.000Z",
+            "bugLastBumpDate":"2020-08-06T21:15:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiawjeadsgasgarofiaodjisf",
+                    "commentDate":"2020-07-24T19:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0028",
+            "bugDescription":"He spiked his hair green to support his iguana. The urgent care center was flooded with patients after the news of a new deadly virus was made public. He put heat on the wound to see what would grow. You've been eyeing me all day and waiting for your move like a lion stalking a gazelle in a savannah. The efficiency we have at removing trash has made creating trash more acceptable.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-07-10T19:10:00.000Z",
+            "bugLastBumpDate":"2020-07-19T08:15:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiaagrgadsgrgewjeofiaodjisf",
+                    "commentDate":"2020-07-12T18:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0029",
+            "bugDescription":"The pet shop stocks everything you need to keep your anaconda happy. Pair your designer cowboy hat with scuba gear for a memorable occasion. He hated that he loved what she hated about hate. I just wanted to tell you I could see the love you have for your child by the way you look at her. He was the type of guy who liked Christmas lights on his house in the middle of July.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-07-19T10:15:30.000Z",
+            "bugLastBumpDate":"2020-07-29T20:12:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"developer2",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjeadsfgargaofiaodjisf",
+                    "commentDate":"2020-07-24T23:35:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0030",
+            "bugDescription":"Lightning Paradise was the local hangout joint where the group usually ended up spending the night. Excitement replaced fear until the final moment. Charles ate the french fries knowing they would be his last meal. Nobody questions who built the pyramids in Mexico. He walked into the basement with the horror movie from the night before playing in his head. ",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-07-10T15:10:00.000Z",
+            "bugLastBumpDate":"2020-07-18T17:10:00.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawjdgadarreofiaodjisf",
+                    "commentDate":"2020-07-13T16:15:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0031",
+            "bugDescription":"Today arrived with a crash of my car through the garage door. He picked up trash in his spare time to dump in his neighbor's yard. The beauty of the sunset was obscured by the industrial cranes. The rain pelted the windshield as the darkness engulfed us. Warm beer on a cold day isn't my idea of fun.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-07-11T17:10:00.000Z",
+            "bugLastBumpDate":"2020-07-25T22:55:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawdfgsdfgerjeofiaodjisf",
+                    "commentDate":"2020-07-18T19:45:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0032",
+            "bugDescription":"He enjoys practicing his ballet in the bathroom. She only paints with bold colors; she does not like pastels. She always speaks to him in a loud voice. The father died during childbirth. Nobody questions who built the pyramids in Mexico.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-07-03T15:09:30.000Z",
+            "bugLastBumpDate":"2020-07-19T23:19:40.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsdsfasdfsafjofiawjeofiaodjisf",
+                    "commentDate":"2020-07-09T10:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0033",
+            "bugDescription":"Fluffy pink unicorns are a popular status symbol among macho men. They improved dramatically once the lead singer left. The rusty nail stood erect, angled at a 45-degree angle, just waiting for the perfect barefoot to come along. Her scream silenced the rowdy teenagers. The memory we used to share is no longer coherent.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-07-12T15:10:00.000Z",
+            "bugLastBumpDate":"2020-07-15T21:45:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofrthrthrhiawjeofiaodjisf",
+                    "commentDate":"2020-07-13T09:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0034",
+            "bugDescription":"Random words in front of other random words create a random sentence. She is never happy until she finds something to be unhappy about; then, she is overjoyed. Charles ate the french fries knowing they would be his last meal. The rusty nail stood erect, angled at a 45-degree angle, just waiting for the perfect barefoot to come along. The gruff old man sat in the back of the bait shop grumbling to himself as he scooped out a handful of worms.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-07-10T13:10:00.000Z",
+            "bugLastBumpDate":"2020-07-15T21:15:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiawjbvsdfsfreofiaodjisf",
+                    "commentDate":"2020-07-11T08:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0035",
+            "bugDescription":"Last Friday I saw a spotted striped blue worm shake hands with a legless lizard. It was difficult for Mary to admit that most of her workout consisted of exercising poor judgment. She cried diamonds. The book is in front of the table. I thought red would have felt warmer in summer but I didn't think about the equator.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-07-10T15:10:00.000Z",
+            "bugLastBumpDate":"2020-07-13T12:15:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"developer3",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjdasgargaeofiaodjisf",
+                    "commentDate":"2020-07-10T15:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0036",
+            "bugDescription":"He wasn't bitter that she had moved on but from the radish. She was too busy always talking about what she wanted to do to actually do any of it. He would only survive if he kept the fire going and he could hear thunder in the distance. It took him a while to realize that everything he decided not to change, he was actually choosing. He enjoys practicing his ballet in the bathroom.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-07-02T15:10:00.000Z",
+            "bugLastBumpDate":"2020-07-11T17:15:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"developer1",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawgasdfgargjeofiaodjisf",
+                    "commentDate":"2020-07-03T21:19:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0037",
+            "bugDescription":"Someone I know recently combined Maple Syrup & buttered Popcorn thinking it would taste like caramel popcorn. It didn’t and they don’t recommend anyone else do it either. The tattered work gloves speak of the many hours of hard labor he endured throughout his life. The mysterious diary records the voice. It was her first experience training a rainbow unicorn. I ate a sock because people on the Internet told me to.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-07-12T14:17:00.000Z",
+            "bugLastBumpDate":"2020-07-16T18:15:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiawjeadsgasgarofiaodjisf",
+                    "commentDate":"2020-07-12T18:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0038",
+            "bugDescription":"She only paints with bold colors; she does not like pastels. The doll spun around in circles in hopes of coming alive. Erin accidentally created a new universe. The newly planted trees were held up by wooden frames in hopes they could survive the next storm. Sometimes it is better to just walk away from things and go back to them later when you’re in a better frame of mind.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-07-10T10:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:45:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiaagrgadsgrgewjeofiaodjisf",
+                    "commentDate":"2020-07-25T23:55:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0039",
+            "bugDescription":"Before he moved to the inner city, he had always believed that security complexes were psychological. Whenever he saw a red flag warning at the beach he grabbed his surfboard. I liked their first two albums but changed my mind after that charity gig. There can never be too many cherries on an ice cream sundae. Nobody loves a pig wearing lipstick.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-07-11T05:12:00.000Z",
+            "bugLastBumpDate":"2020-07-19T21:55:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"developer2",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjeadsfgargaofiaodjisf",
+                    "commentDate":"2020-07-14T05:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0040",
+            "bugDescription":"He colored deep space a soft yellow. People who insist on picking their teeth with their elbows are so annoying! She opened up her third bottle of wine of the night. My Mum tries to be cool by saying that she likes all the same things that I do. Lets all be unique together until we realise we are all the same.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-08-10T12:10:00.000Z",
+            "bugLastBumpDate":"2020-08-13T23:00:00.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawjdgadarreofiaodjisf",
+                    "commentDate":"2020-08-11T05:35:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0041",
+            "bugDescription":"Peanuts don't grow on trees, but cashews do. I was very proud of my nickname throughout high school but today- I couldn’t be any different to what my nickname was. He drank life before spitting it out. It didn't make sense unless you had the power to eat colors. Her scream silenced the rowdy teenagers. ",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-08-14T05:25:30.000Z",
+            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawdfgsdfgerjeofiaodjisf",
+                    "commentDate":"2020-08-17T20:25:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0042",
+            "bugDescription":"That was how he came to win $1 million. When I cook spaghetti, I like to boil it a few minutes past al dente so the noodles are super slippery. You've been eyeing me all day and waiting for your move like a lion stalking a gazelle in a savannah. He put heat on the wound to see what would grow. I want to buy a onesie… but know it won’t suit me.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-08-02T09:15:30.000Z",
+            "bugLastBumpDate":"2020-08-25T20:05:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsdsfasdfsafjofiawjeofiaodjisf",
+                    "commentDate":"2020-08-05T16:35:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0043",
+            "bugDescription":"Warm beer on a cold day isn't my idea of fun. Some bathing suits just shouldn’t be worn by some people. Nudist colonies shun fig-leaf couture. Courage and stupidity were all he had. Nobody has encountered an explosive daisy and lived to tell the tale.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-08-12T22:05:30.000Z",
+            "bugLastBumpDate":"2020-08-16T21:55:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofrthrthrhiawjeofiaodjisf",
+                    "commentDate":"2020-08-13T09:10:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0044",
+            "bugDescription":"Malls are great places to shop; I can find everything I need under one roof. As the rental car rolled to a stop on the dark road, her fear increased by the moment. She couldn't decide of the glass was half empty or half full so she drank it. Wisdom is easily acquired when hiding under the bed with a saucepan on your head. It doesn't sound like that will ever be on my travel list.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-08-10T23:55:30.000Z",
+            "bugLastBumpDate":"2020-08-16T16:45:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiawjbvsdfsfreofiaodjisf",
+                    "commentDate":"2020-08-11T09:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0045",
+            "bugDescription":"He enjoys practicing his ballet in the bathroom. On a scale from one to ten, what's your favorite flavor of random grammar? He embraced his new life as an eggplant. It's difficult to understand the lengths he'd go to remain short. Please tell me you don't work in a morgue.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-08-11T08:15:30.000Z",
+            "bugLastBumpDate":"2020-08-29T23:25:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"developer3",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjdasgargaeofiaodjisf",
+                    "commentDate":"2020-08-25T18:55:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0046",
+            "bugDescription":"The hand sanitizer was actually clear glue. The river stole the gods. For oil spots on the floor, nothing beats parking a motorbike in the lounge. Fluffy pink unicorns are a popular status symbol among macho men. I am my aunt's sister's daughter.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-09-13T19:15:30.000Z",
+            "bugLastBumpDate":"2020-09-20T23:25:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"developer1",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawgasdfgargjeofiaodjisf",
+                    "commentDate":"2020-09-18T14:35:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0047",
+            "bugDescription":"He told us a very exciting adventure story. The sky is clear; the stars are twinkling. She always had an interesting perspective on why the world must be flat. Facing his greatest fear, he ate his first marshmallow. After fighting off the alligator, Brian still had to face the anaconda.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-09-16T16:55:30.000Z",
+            "bugLastBumpDate":"2020-09-25T19:15:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiawjeadsgasgarofiaodjisf",
+                    "commentDate":"2020-09-20T06:45:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0048",
+            "bugDescription":"The tour bus was packed with teenage girls heading toward their next adventure. She had a difficult time owning up to her own crazy self. He didn't heed the warning and it had turned out surprisingly well. She wrote him a long letter, but he didn't read it. It's a skateboarding penguin with a sunhat!",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-09-20T10:25:30.000Z",
+            "bugLastBumpDate":"2020-09-28T14:15:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiaagrgadsgrgewjeofiaodjisf",
+                    "commentDate":"2020-09-21T06:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0049",
+            "bugDescription":"Chocolate covered crickets were his favorite snack. The fish listened intently to what the frogs had to say. Iron pyrite is the most foolish of all minerals. Patricia loves the sound of nails strongly pressed against the chalkboard. He found a leprechaun in his walnut shell.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-09-01T15:15:30.000Z",
+            "bugLastBumpDate":"2020-09-10T16:25:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"developer2",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjeadsfgargaofiaodjisf",
+                    "commentDate":"2020-09-04T13:55:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0050",
+            "bugDescription":"I am my aunt's sister's daughter. The secret ingredient to his wonderful life was crime. He didn't understand why the bird wanted to ride the bicycle. She was the type of girl who wanted to live in a pink house. The sunblock was handed to the girl before practice, but the burned skin was proof she did not apply it.",
+            "bugStatus":"Open",
+            "bugDateReported":"2020-09-19T15:15:30.000Z",
+            "bugLastBumpDate":"2020-09-29T18:45:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawjdgadarreofiaodjisf",
+                    "commentDate":"2020-089-20T11:25:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0051",
+            "bugDescription":"He learned the important lesson that a picnic at the beach on a windy day is a bad idea. Eating eggs on Thursday for choir practice was recommended. She wasn't sure whether to be impressed or concerned that he folded underwear in neat little packages. Yeah, I think it's a good environment for learning English. It was a really good Monday for being a Saturday.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-09-03T07:55:30.000Z",
+            "bugLastBumpDate":"2020-09-14T10:25:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawdfgsdfgerjeofiaodjisf",
+                    "commentDate":"2020-09-07T13:05:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0052",
+            "bugDescription":"This book is sure to liquefy your brain. She wanted a pet platypus but ended up getting a duck and a ferret instead. He wondered why at 18 he was old enough to go to war, but not old enough to buy cigarettes. You can't compare apples and oranges, but what about bananas and plantains? He picked up trash in his spare time to dump in his neighbor's yard.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-09-14T18:25:30.000Z",
+            "bugLastBumpDate":"2020-09-18T11:45:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsdsfasdfsafjofiawjeofiaodjisf",
+                    "commentDate":"2020-09-15T16:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0053",
+            "bugDescription":"The thunderous roar of the jet overhead confirmed her worst fears. Tom got a small piece of pie. Karen realized the only way she was getting into heaven was to cheat. A dead duck doesn't fly backward. He had accidentally hacked into his company's server.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-09-17T05:45:30.000Z",
+            "bugLastBumpDate":"2020-09-22T08:19:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofrthrthrhiawjeofiaodjisf",
+                    "commentDate":"2020-09-19T06:25:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0054",
+            "bugDescription":"They were excited to see their first sloth. Art doesn't have to be intentional. She traveled because it cost the same as therapy and was a lot more enjoyable. She wondered what his eyes were saying beneath his mirrored sunglasses. He loved eating his bananas in hot dog buns.",
+            "bugStatus":"Open",
+            "bugDateReported":"2020-09-13T08:25:30.000Z",
+            "bugLastBumpDate":"2020-09-21T16:24:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiawjbvsdfsfreofiaodjisf",
+                    "commentDate":"2020-09-14T04:55:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0055",
+            "bugDescription":"Iguanas were falling out of the trees. Iron pyrite is the most foolish of all minerals. Malls are great places to shop; I can find everything I need under one roof. Two seats were vacant. Yeah, I think it's a good environment for learning English.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-09-13T18:25:30.000Z",
+            "bugLastBumpDate":"2020-09-25T18:24:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"developer3",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjdasgargaeofiaodjisf",
+                    "commentDate":"2020-09-16T14:55:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0056",
+            "bugDescription":"She wore green lipstick like a fashion icon. It's much more difficult to play tennis with a bowling ball than it is to bowl with a tennis ball. I want more detailed information. Now I need to ponder my existence and ask myself if I'm truly real. As the rental car rolled to a stop on the dark road, her fear increased by the moment.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-09-04T09:55:30.000Z",
+            "bugLastBumpDate":"2020-09-26T12:25:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"developer1",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawgasdfgargjeofiaodjisf",
+                    "commentDate":"2020-09-16T17:25:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0057",
+            "bugDescription":"As the rental car rolled to a stop on the dark road, her fear increased by the moment. He spiked his hair green to support his iguana. In the end, he realized he could see sound and hear words. It doesn't sound like that will ever be on my travel list. Of course, she loves her pink bunny slippers.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-09-16T14:35:30.000Z",
+            "bugLastBumpDate":"2020-09-19T07:55:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiawjeadsgasgarofiaodjisf",
+                    "commentDate":"2020-09-17T09:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0058",
+            "bugDescription":"8% of 25 is the same as 25% of 8 and one of them is much easier to do in your head. The virus had powers none of us knew existed. She works two jobs to make ends meet; at least, that was her reason for not having time to join us. The Tsunami wave crashed against the raised houses and broke the pilings as if they were toothpicks. She is never happy until she finds something to be unhappy about; then, she is overjoyed. ",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-09-10T12:35:30.000Z",
+            "bugLastBumpDate":"2020-09-17T15:35:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiaagrgadsgrgewjeofiaodjisf",
+                    "commentDate":"2020-09-11T12:45:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0059",
+            "bugDescription":"It's not possible to convince a monkey to give you a banana by promising it infinite bananas when they die. He spiked his hair green to support his iguana. The waitress was not amused when he ordered green eggs and ham. The knives were out and she was sharpening hers. The pigs were insulted that they were named hamburgers.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-09-12T13:25:30.000Z",
+            "bugLastBumpDate":"2020-09-27T17:35:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"developer2",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjeadsfgargaofiaodjisf",
+                    "commentDate":"2020-09-20T19:05:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0060",
+            "bugDescription":"She saw the brake lights, but not in time. He decided to fake his disappearance to avoid jail. The trick to getting kids to eat anything is to put catchup on it. Everyone says they love nature until they realize how dangerous she can be. You're unsure whether or not to trust him, but very thankful that you wore a turtle neck.",
+            "bugStatus":"Open",
+            "bugDateReported":"2020-09-09T07:25:30.000Z",
+            "bugLastBumpDate":"2020-09-15T12:45:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawjdgadarreofiaodjisf",
+                    "commentDate":"2020-09-09T07:45:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0061",
+            "bugDescription":"He learned the important lesson that a picnic at the beach on a windy day is a bad idea. Stop waiting for exceptional things to just happen. My Mum tries to be cool by saying that she likes all the same things that I do. Thigh-high in the water, the fisherman’s hope for dinner soon turned to despair. They were excited to see their first sloth.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-09-11T14:23:30.000Z",
+            "bugLastBumpDate":"2020-09-21T15:42:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawdfgsdfgerjeofiaodjisf",
+                    "commentDate":"2020-09-13T18:22:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0062",
+            "bugDescription":"I met an interesting turtle while the song on the radio blasted away. It dawned on her that others could make her happier, but only she could make herself happy. The best key lime pie is still up for debate. The door swung open to reveal pink giraffes and red elephants. He strives to keep the best lawn in the neighborhood.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-09-02T05:35:30.000Z",
+            "bugLastBumpDate":"2020-09-20T16:45:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsdsfasdfsafjofiawjeofiaodjisf",
+                    "commentDate":"2020-09-04T16:02:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0063",
+            "bugDescription":"She cried diamonds. The stranger officiates the meal. I currently have 4 windows open up… and I don’t know why. The best key lime pie is still up for debate. The busker hoped that the people passing by would throw money, but they threw tomatoes instead, so he exchanged his hat for a juicer.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-09-04T08:35:30.000Z",
+            "bugLastBumpDate":"2020-09-24T09:25:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofrthrthrhiawjeofiaodjisf",
+                    "commentDate":"2020-09-05T17:18:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0064",
+            "bugDescription":"The secret ingredient to his wonderful life was crime. He was 100% into fasting with her until he understood that meant he couldn't eat. Mary plays the piano. It would have been a better night if the guys next to us weren't in the splash zone. Shakespeare was a famous 17th-century diesel mechanic.",
+            "bugStatus":"Open",
+            "bugDateReported":"2020-09-23T14:12:30.000Z",
+            "bugLastBumpDate":"2020-09-29T16:23:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiawjbvsdfsfreofiaodjisf",
+                    "commentDate":"2020-09-24T19:46:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0065",
+            "bugDescription":"The lyrics of the song sounded like fingernails on a chalkboard. A kangaroo is really just a rabbit on steroids. He watched the dancing piglets with panda bear tummies in the swimming pool. The tart lemonade quenched her thirst, but not her longing. He learned the hardest lesson of his life and had the scars, both physical and mental, to prove it.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-09-12T12:16:30.000Z",
+            "bugLastBumpDate":"2020-09-18T15:30:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"developer3",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjdasgargaeofiaodjisf",
+                    "commentDate":"2020-09-15T15:22:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0066",
+            "bugDescription":"The light that burns twice as bright burns half as long. A dead duck doesn't fly backward. Patricia loves the sound of nails strongly pressed against the chalkboard. Three years later, the coffin was still full of Jello. The lyrics of the song sounded like fingernails on a chalkboard.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-09-15T17:13:30.000Z",
+            "bugLastBumpDate":"2020-09-19T21:15:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"developer1",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawgasdfgargjeofiaodjisf",
+                    "commentDate":"2020-09-17T14:12:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0067",
+            "bugDescription":"She learned that water bottles are no longer just to hold liquid, but they're also status symbols. People generally approve of dogs eating cat food but not cats eating dog food. It was at that moment that he learned there are certain parts of the body that you should never Nair. The door slammed on the watermelon. He would only survive if he kept the fire going and he could hear thunder in the distance.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-09-16T15:45:30.000Z",
+            "bugLastBumpDate":"2020-09-23T06:25:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiawjeadsgasgarofiaodjisf",
+                    "commentDate":"2020-09-18T19:25:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0068",
+            "bugDescription":"All they could see was the blue water surrounding their sailboat. Your girlfriend bought your favorite cookie crisp cereal but forgot to get milk. It's much more difficult to play tennis with a bowling ball than it is to bowl with a tennis ball. The shark-infested South Pine channel was the only way in or out. Improve your goldfish's physical fitness by getting him a bicycle.",
+            "bugStatus":"Open",
+            "bugDateReported":"2020-09-12T15:35:30.000Z",
+            "bugLastBumpDate":"2020-09-15T11:25:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiaagrgadsgrgewjeofiaodjisf",
+                    "commentDate":"2020-09-13T02:45:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0069",
+            "bugDescription":"You're unsure whether or not to trust him, but very thankful that you wore a turtle neck. The knives were out and she was sharpening hers. Everyone was curious about the large white blimp that appeared overnight. David subscribes to the stuff your tent into the bag strategy over nicely folding it. Patricia loves the sound of nails strongly pressed against the chalkboard.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-09-05T09:15:30.000Z",
+            "bugLastBumpDate":"2020-09-12T06:45:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"developer2",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjeadsfgargaofiaodjisf",
+                    "commentDate":"2020-09-06T14:12:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0070",
+            "bugDescription":"He had a hidden stash underneath the floorboards in the back room of the house. He had a vague sense that trees gave birth to dinosaurs. It didn't take long for Gary to detect the robbers were amateurs. I'm confused: when people ask me what's up, and I point, they groan. He kept telling himself that one day it would all somehow make sense.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-09-12T06:12:30.000Z",
+            "bugLastBumpDate":"2020-09-14T18:09:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawjdgadarreofiaodjisf",
+                    "commentDate":"2020-09-12T06:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0071",
+            "bugDescription":"The memory we used to share is no longer coherent. She had a habit of taking showers in lemonade. It doesn't sound like that will ever be on my travel list. Having no hair made him look even hairier. A kangaroo is really just a rabbit on steroids.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-09-08T14:25:30.000Z",
+            "bugLastBumpDate":"2020-09-19T13:15:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawdfgsdfgerjeofiaodjisf",
+                    "commentDate":"2020-09-10T09:45:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0072",
+            "bugDescription":"With a single flip of the coin, his life changed forever. My dentist tells me that chewing bricks is very bad for your teeth. They were excited to see their first sloth. They wandered into a strange Tiki bar on the edge of the small beach town. The sky is clear; the stars are twinkling.",
+            "bugStatus":"Open",
+            "bugDateReported":"2020-09-24T17:25:30.000Z",
+            "bugLastBumpDate":"2020-09-29T18:45:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsdsfasdfsafjofiawjeofiaodjisf",
+                    "commentDate":"2020-09-24T20:45:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0073",
+            "bugDescription":"The blinking lights of the antenna tower came into focus just as I heard a loud snap. It was the scarcity that fueled his creativity. They wandered into a strange Tiki bar on the edge of the small beach town. It was a slippery slope and he was willing to slide all the way to the deepest depths. Nudist colonies shun fig-leaf couture.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-09-19T23:15:30.000Z",
+            "bugLastBumpDate":"2020-09-19T23:15:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofrthrthrhiawjeofiaodjisf",
+                    "commentDate":"2020-09-14T23:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0074",
+            "bugDescription":"He had unknowingly taken up sleepwalking as a nighttime hobby. She did her best to help him. She wore green lipstick like a fashion icon. I like to leave work after my eight-hour tea-break. Today arrived with a crash of my car through the garage door.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-09-16T13:12:30.000Z",
+            "bugLastBumpDate":"2020-09-25T16:19:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofrthrthrhiawjeofiaodjisf",
+                    "commentDate":"2020-09-16T18:45:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0075",
+            "bugDescription":"She had that tint of craziness in her soul that made her believe she could actually make a difference. The toy brought back fond memories of being lost in the rain forest. A purple pig and a green donkey flew a kite in the middle of the night and ended up sunburnt. Going from child, to childish, to childlike is only a matter of time. While on the first date he accidentally hit his head on the beam.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-09-20T10:10:30.000Z",
+            "bugLastBumpDate":"2020-09-26T19:18:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiawjbvsdfsfreofiaodjisf",
+                    "commentDate":"2020-09-21T10:25:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0076",
+            "bugDescription":"The random sentence generator generated a random sentence about a random sentence. The tortoise jumped into the lake with dreams of becoming a sea turtle. She thought there'd be sufficient time if she hid her watch. A kangaroo is really just a rabbit on steroids. The lake is a long way from here.",
+            "bugStatus":"Open",
+            "bugDateReported":"2020-09-16T15:25:30.000Z",
+            "bugLastBumpDate":"2020-09-21T17:35:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"developer3",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjdasgargaeofiaodjisf",
+                    "commentDate":"2020-09-16T19:32:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0077",
+            "bugDescription":"The pet shop stocks everything you need to keep your anaconda happy. The hummingbird's wings blurred while it eagerly sipped the sugar water from the feeder. She wore green lipstick like a fashion icon. She had some amazing news to share but nobody to share it with. Poison ivy grew through the fence they said was impenetrable.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-09-15T19:25:30.000Z",
+            "bugLastBumpDate":"2020-09-23T15:35:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"developer1",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawgasdfgargjeofiaodjisf",
+                    "commentDate":"2020-09-18T12:25:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0078",
+            "bugDescription":"She looked into the mirror and saw another person. The pigs were insulted that they were named hamburgers. If eating three-egg omelets causes weight-gain, budgie eggs are a good substitute. Smoky the Bear secretly started the fires. As he entered the church he could hear the soft voice of someone whispering into a cell phone.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-09-23T16:10:30.000Z",
+            "bugLastBumpDate":"2020-09-29T18:45:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiawjeadsgasgarofiaodjisf",
+                    "commentDate":"2020-09-23T18:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0079",
+            "bugDescription":"Sixty-Four comes asking for bread. The toy brought back fond memories of being lost in the rain forest. It must be five o'clock somewhere. They did nothing as the raccoon attacked the lady’s bag of food. There's a reason that roses have thorns.",
+            "bugStatus":"Open",
+            "bugDateReported":"2020-10-01T18:25:30.000Z",
+            "bugLastBumpDate":"2020-10-05T09:45:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiaagrgadsgrgewjeofiaodjisf",
+                    "commentDate":"2020-10-02T09:05:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0080",
+            "bugDescription":"A quiet house is nice until you are ordered to stay in it for months. Let me help you with your baggage. She looked into the mirror and saw another person. Today I dressed my unicorn in preparation for the race. He wore the surgical mask in public not to keep from catching a virus, but to keep people away from him.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-10-03T19:35:30.000Z",
+            "bugLastBumpDate":"2020-10-08T08:45:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"developer2",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjeadsfgargaofiaodjisf",
+                    "commentDate":"2020-10-06T08:25:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0081",
+            "bugDescription":"Red is greener than purple, for sure. Warm beer on a cold day isn't my idea of fun. He picked up trash in his spare time to dump in his neighbor's yard. The mysterious diary records the voice. She works two jobs to make ends meet; at least, that was her reason for not having time to join us.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-10-05T19:12:30.000Z",
+            "bugLastBumpDate":"2020-10-08T09:04:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawjdgadarreofiaodjisf",
+                    "commentDate":"2020-10-05T19:18:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0082",
+            "bugDescription":"He created a pig burger out of beef. Be careful with that butter knife. I am never at home on Sundays. It would have been a better night if the guys next to us weren't in the splash zone. Pink horses galloped across the sea.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-10-05T19:12:30.000Z",
+            "bugLastBumpDate":"2020-10-10T10:55:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawdfgsdfgerjeofiaodjisf",
+                    "commentDate":"2020-10-05T19:17:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0083",
+            "bugDescription":"Even though he thought the world was flat he didn’t see the irony of wanting to travel around the world. The opportunity of a lifetime passed before him as he tried to decide between a cone or a cup. The shark-infested South Pine channel was the only way in or out. Sometimes I stare at a door or a wall and I wonder what is this reality, why am I alive, and what is this all about? She always speaks to him in a loud voice.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-10-06T10:35:30.000Z",
+            "bugLastBumpDate":"2020-10-15T19:25:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsdsfasdfsafjofiawjeofiaodjisf",
+                    "commentDate":"2020-10-07T09:25:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0084",
+            "bugDescription":"I'd rather be a bird than a fish. The lyrics of the song sounded like fingernails on a chalkboard. The snow-covered path was no help in finding his way out of the back-country. He decided to fake his disappearance to avoid jail. The efficiency we have at removing trash has made creating trash more acceptable.",
+            "bugStatus":"Open",
+            "bugDateReported":"2020-10-07T09:45:30.000Z",
+            "bugLastBumpDate":"2020-10-18T18:25:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofrthrthrhiawjeofiaodjisf",
+                    "commentDate":"2020-10-07T13:25:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0085",
+            "bugDescription":"We have never been to Asia, nor have we visited Africa. She tilted her head back and let whip cream stream into her mouth while taking a bath. Before he moved to the inner city, he had always believed that security complexes were psychological. All they could see was the blue water surrounding their sailboat. If my calculator had a history, it would be more embarrassing than my browser history.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-10-09T16:25:30.000Z",
+            "bugLastBumpDate":"2020-10-19T23:55:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiawjbvsdfsfreofiaodjisf",
+                    "commentDate":"2020-10-10T09:04:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0086",
+            "bugDescription":"Writing a list of random sentences is harder than I initially thought it would be. In the end, he realized he could see sound and hear words. It must be five o'clock somewhere. I'm confused: when people ask me what's up, and I point, they groan. The hummingbird's wings blurred while it eagerly sipped the sugar water from the feeder.",
+            "bugStatus":"Open",
+            "bugDateReported":"2020-10-09T18:55:30.000Z",
+            "bugLastBumpDate":"2020-10-19T23:55:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"developer3",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjdasgargaeofiaodjisf",
+                    "commentDate":"2020-10-12T09:45:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0087",
+            "bugDescription":"The teens wondered what was kept in the red shed on the far edge of the school grounds. They throw cabbage that turns your brain into emotional baggage. A song can make or ruin a person’s day if they let it get to them. He realized there had been several deaths on this road, but his concern rose when he saw the exact number. There aren't enough towels in the world to stop the sewage flowing from his mouth.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-10-10T08:35:30.000Z",
+            "bugLastBumpDate":"2020-10-17T20:10:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"developer1",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawgasdfgargjeofiaodjisf",
+                    "commentDate":"2020-10-12T14:45:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0089",
+            "bugDescription":"This is the last random sentence I will be writing and I am going to stop mid-sent She is never happy until she finds something to be unhappy about; then, she is overjoyed. Fluffy pink unicorns are a popular status symbol among macho men. The group quickly understood that toxic waste was the most effective barrier to use against the zombies. She couldn't decide of the glass was half empty or half full so she drank it.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-10-10T13:45:30.000Z",
+            "bugLastBumpDate":"2020-10-17T16:35:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiawjeadsgasgarofiaodjisf",
+                    "commentDate":"2020-10-10T17:45:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0089",
+            "bugDescription":"He didn't understand why the bird wanted to ride the bicycle. Not all people who wander are lost. He kept telling himself that one day it would all somehow make sense. Hang on, my kittens are scratching at the bathtub and they'll upset by the lack of biscuits. He knew it was going to be a bad day when he saw mountain lions roaming the streets.",
+            "bugStatus":"Open",
+            "bugDateReported":"2020-10-10T16:25:30.000Z",
+            "bugLastBumpDate":"2020-10-17T16:55:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiaagrgadsgrgewjeofiaodjisf",
+                    "commentDate":"2020-10-10T18:05:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0090",
+            "bugDescription":"She had a habit of taking showers in lemonade. She wore green lipstick like a fashion icon. Of course, she loves her pink bunny slippers. Stop waiting for exceptional things to just happen. We have a lot of rain in June.",
+            "bugStatus":"Fixed",
+            "bugDateReported":"2020-10-11T08:25:30.000Z",
+            "bugLastBumpDate":"2020-10-21T15:05:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"developer2",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjeadsfgargaofiaodjisf",
+                    "commentDate":"2020-10-14T08:45:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0091",
+            "bugDescription":"Carol drank the blood as if she were a vampire. All you need to do is pick up the pen and begin. Erin accidentally created a new universe. After exploring the abandoned building, he started to believe in ghosts. Honestly, I didn't care much for the first season, so I didn't bother with the second.",
+            "bugStatus":"Open",
+            "bugDateReported":"2020-10-11T09:45:30.000Z",
+            "bugLastBumpDate":"2020-10-19T16:25:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawjdgadarreofiaodjisf",
+                    "commentDate":"2020-10-11T10:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0092",
+            "bugDescription":"Nobody questions who built the pyramids in Mexico. Never underestimate the willingness of the greedy to throw you under the bus. Warm beer on a cold day isn't my idea of fun. Two seats were vacant. They called out her name time and again, but were met with nothing but silence.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-10-11T10:25:30.000Z",
+            "bugLastBumpDate":"2020-10-18T19:25:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawdfgsdfgerjeofiaodjisf",
+                    "commentDate":"2020-10-11T11:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0093",
+            "bugDescription":"The delicious aroma from the kitchen was ruined by cigarette smoke. It must be five o'clock somewhere. He colored deep space a soft yellow. The hummingbird's wings blurred while it eagerly sipped the sugar water from the feeder. I really want to go to work, but I am too sick to drive ",
+            "bugStatus":"Open",
+            "bugDateReported":"2020-10-11T11:05:30.000Z",
+            "bugLastBumpDate":"2020-10-15T10:45:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsdsfasdfsafjofiawjeofiaodjisf",
+                    "commentDate":"2020-10-11T12:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0094",
+            "bugDescription":"To the surprise of everyone, the Rapture happened yesterday but it didn't quite go as expected. Warm beer on a cold day isn't my idea of fun. He looked behind the door and didn't like what he saw. Tuesdays are free if you bring a gnome costume. He set out for a short walk, but now all he could see were mangroves and water were for miles.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-10-11T11:45:30.000Z",
+            "bugLastBumpDate":"2020-10-16T15:45:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofrthrthrhiawjeofiaodjisf",
+                    "commentDate":"2020-10-11T12:24:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0095",
+            "bugDescription":"The busker hoped that the people passing by would throw money, but they threw tomatoes instead, so he exchanged his hat for a juicer. A suit of armor provides excellent sun protection on hot days. He wondered if she would appreciate his toenail collection. He is good at eating pickles and telling women about his emotional problems. It dawned on her that others could make her happier, but only she could make herself happy.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-10-11T13:05:30.000Z",
+            "bugLastBumpDate":"2020-10-15T10:25:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofiaagrgadsgrgewjeofiaodjisf",
+                    "commentDate":"2020-10-14T18:12:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0096",
+            "bugDescription":"Excitement replaced fear until the final moment. She finally understood that grief was her love with no place for it to go. Although it wasn't a pot of gold, Nancy was still enthralled at what she found at the end of the rainbow. The efficiency we have at removing trash has made creating trash more acceptable. She had some amazing news to share but nobody to share it with.",
+            "bugStatus":"Open",
+            "bugDateReported":"2020-10-11T14:15:30.000Z",
+            "bugLastBumpDate":"2020-10-19T10:05:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"developer2",
+                    "role":"Developer",
+                    "comment":"aoifjodsjofiawjeadsfgargaofiaodjisf",
+                    "commentDate":"2020-10-18T09:45:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0097",
+            "bugDescription":"The blinking lights of the antenna tower came into focus just as I heard a loud snap. She had that tint of craziness in her soul that made her believe she could actually make a difference. He colored deep space a soft yellow. There are few things better in life than a slice of pie. It was at that moment that he learned there are certain parts of the body that you should never Nair.",
+            "bugStatus":"Awaiting Testing",
+            "bugDateReported":"2020-10-15T09:25:30.000Z",
+            "bugLastBumpDate":"2020-10-21T16:45:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawjdgadarreofiaodjisf",
+                    "commentDate":"2020-10-15T10:05:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0098",
+            "bugDescription":"Erin accidentally created a new universe. It's difficult to understand the lengths he'd go to remain short. The lyrics of the song sounded like fingernails on a chalkboard. They called out her name time and again, but were met with nothing but silence. A dead duck doesn't fly backward.",
+            "bugStatus":"Open",
+            "bugDateReported":"2020-10-15T10:25:30.000Z",
+            "bugLastBumpDate":"2020-10-20T15:10:30.000Z",
+            "bugAssignedTo":"developer2",
+            "bugComments":[
+                {
+                    "name":"Bug Reporter1",
+                    "role":"Bug Reporter",
+                    "comment":"aoifjodsjofiawdfgsdfgerjeofiaodjisf",
+                    "commentDate":"2020-10-15T17:05:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0099",
+            "bugDescription":"He put heat on the wound to see what would grow. Mary plays the piano. The fact that there's a stairway to heaven and a highway to hell explains life well. Karen realized the only way she was getting into heaven was to cheat. We should play with legos at camp.",
+            "bugStatus":"Closed",
+            "bugDateReported":"2020-10-20T11:35:30.000Z",
+            "bugLastBumpDate":"2020-10-23T19:45:30.000Z",
+            "bugAssignedTo":"developer1",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsdsfasdfsafjofiawjeofiaodjisf",
+                    "commentDate":"2020-10-20T13:15:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0100",
+            "bugDescription":"The golden retriever loved the fireworks each Fourth of July. As time wore on, simple dog commands turned into full paragraphs explaining why the dog couldn’t do something. She had convinced her kids that any mushroom found on the ground would kill them if they touched it. Two seats were vacant. The irony of the situation wasn't lost on anyone in the room.",
+            "bugStatus":"Open",
+            "bugDateReported":"2020-10-20T17:45:30.000Z",
+            "bugLastBumpDate":"2020-10-27T16:05:30.000Z",
+            "bugAssignedTo":"developer3",
+            "bugComments":[
+                {
+                    "name":"triager1",
+                    "role":"Triager",
+                    "comment":"aoifjodsjofrthrthrhiawjeofiaodjisf",
+                    "commentDate":"2020-10-20T18:35:30.000Z"
+                }
+            ]
+        }]
+		}
+		
