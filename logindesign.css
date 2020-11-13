@@ -88,8 +88,20 @@ h2 {
     flex: 50%;
     margin-top: 150px;
     margin-left: 100px;
+    height: 100px;
 }
 
 .assignLabel {
-    word-wrap: normal;
+    white-space: nowrap;
+}
+
+.comBox {
+    float: left;
+    padding-left: 190px;
+}
+
+.comLabel {
+    float: right;
+    padding-right: 250px;
+    margin-right: 50px;
 }
