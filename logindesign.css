@@ -81,11 +81,12 @@ h2 {
 }
 
 .statLabel {
-    padding-left: 230px;
-    margin-top: 70px;
+    padding-left: 150px;
+    margin-top: 200px;
     float: left;
 }
 
 .statBox {
-
+    float: right;
+    margin-top: 100px;
 }
