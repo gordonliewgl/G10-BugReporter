@@ -13,7 +13,7 @@ h2 {
 }
 
 .loginform {
-    margin:100px 550px ;
+    margin: 100px 550px ;
     width: 300px;
     height: 400px;
     background-color: white;
@@ -24,7 +24,7 @@ h2 {
 }
 
 .registerform {
-    margin:100px 550px ;
+    margin: 100px 550px ;
     width: 300px;
     height: 450px;
     background-color: white;
@@ -35,7 +35,7 @@ h2 {
 }
 
 .bugform {
-    margin:100px 200px ;
+    margin: 100px 200px ;
     width: 1000px;
     height: 1000px;
     background-color: white;
@@ -67,17 +67,15 @@ h2 {
 }
 
 .bugID {
-    padding-right:500px;
+    padding-right: 500px;
 }
 
 .bugDesLabel {
-    display: inline-block;
-	text-align: right;
-	float: left;
+    float: left;
+    padding-left:190px;
 }
 
 .bugDesBox {
-    display: inline-block;
-	text-align: left;
-	float: right;
+    float: right;
+    padding-right:300px;
 }
