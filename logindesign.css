@@ -44,6 +44,17 @@ h2 {
     box-sizing: border-box;
 }
 
+.listBug {
+    margin: 100px 200px ;
+    width: 1000px;
+    height: 1000px;
+    background-color: white;
+    top: 50%;
+    left: 10%;
+    box-sizing: border-box;
+    overflow: scroll;
+}
+
 .logo {
     width: 190px;
     height: 190px;
