@@ -93,33 +93,33 @@ h2 {
 }
 
 .dateLabel {
-    
+    float: left;
 }
 
 .dateBox {
-    
+    float: right;
 }
 
 .bumpLabel {
-    
+    float: left;
 }
 
 .bumpBox {
-    
+    float: right;
 }
 
 .assignLabel {
-    
+    float: left;
 }
 
 .assignBox {
-    
+    float: right;
 }
 
 .comLabel {
-    
+    float: left;
 }
 
 .comBox {
-    
+    float: right;
 }
