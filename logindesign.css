@@ -76,15 +76,16 @@ h2 {
 
 .bugDesBox {
     float: right;
-    padding-right: 300px;
+    padding-right: 250px;
+    margin-right: 50px;
 }
 
 .statLabel {
-    padding-left: 220px;
+    padding-left: 230px;
     margin-top: 70px;
+    float: left;
 }
 
 .statBox {
-    margin-top: 130px;
-    margin-left: 10px;
+
 }
