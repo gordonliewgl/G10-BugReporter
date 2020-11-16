@@ -4,9 +4,10 @@
             "bugID":"BR0101",
             "bugDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed bibendum turpis. Maecenas a elementum lorem, sed laoreet orci. Pellentesque eleifend aliquet lorem. Curabitur quis gravida nibh. Sed pulvinar elit in nunc cursus, ut egestas felis imperdiet. Sed vel diam quis est posuere dapibus et id ante. Pellentesque sollicitudin tincidunt ipsum nec pretium. Nullam sit amet ultricies ligula. Suspendisse a egestas mi. Integer mi lectus, aliquam vel nisi eu, consectetur commodo neque. In tempor ornare congue. Donec laoreet odio non purus convallis molestie. Mauris ultricies ante sed nisi venenatis vulputate id eget nisi. Praesent eu pharetra orci. Nulla et lorem volutpat arcu finibus accumsan.",
             "bugStatus":"Open",
+			"bugSeverity":"1",
             "bugDateReported":"2019-08-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -15,9 +16,10 @@
             "bugID":"BR0102",
             "bugDescription":"Integer sagittis ipsum eu tristique rutrum. Quisque dignissim tellus mollis erat convallis porttitor. Fusce aliquet bibendum luctus. Suspendisse porttitor, dolor porta dignissim porttitor, nunc turpis vehicula mauris, at interdum nisl ex non metus. Nullam rutrum enim tellus, eu vehicula enim dictum at. Phasellus cursus magna a urna tinc idunt, eu pretium nisi congue. Duis non tristique sapien. Aliquam erat volutpat. Mauris nec tellus iaculis, varius massa non, tincidunt nibh. Cras pretium, quam eu convallis sollicitudin, nibh orci vulputate augue, quis suscipit nulla ligula in metus.", 
             "bugStatus":"In Progress",
+			"bugSeverity":"3",
             "bugDateReported":"2019-08-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev2",
+            "bugAssignedTo":"MarkPCC",
             "bugComments":[
                
             ]
@@ -26,9 +28,10 @@
             "bugID":"BR0103",
             "bugDescription":"Mauris viverra leo sit amet faucibus ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi tincidunt mollis erat blandit scelerisque. Vestibulum a eleifend nisl. Sed sagittis ultricies ex vehicula ultrices. Cras laoreet quam quis porttitor ornare. Fusce congue, tortor vitae accumsan hendrerit, lectus sapien iaculis augue, quis vehicula velit velit et ligula. In pharetra enim ut turpis vulputate, at auctor urna consectetur. Phasellus a volutpat dui, vel cursus arcu. Vestibulum bibendum dui in euismod tincidunt.",
             "bugStatus":"Closed",
+			"bugSeverity":"2",
             "bugDateReported":"2019-08-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev3",
+            "bugAssignedTo":"JoshuaBRQ83",
             "bugComments":[
                
             ]
@@ -37,9 +40,10 @@
             "bugID":"BR0104",
             "bugDescription":"The knives were out and she was sharpening hers.",
             "bugStatus":"Open",
+			"bugSeverity":"4",
             "bugDateReported":"2019-09-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-09-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev4",
+            "bugAssignedTo":"InaayahRu214",
             "bugComments":[
                
             ]
@@ -48,9 +52,10 @@
             "bugID":"BR0105",
             "bugDescription":"The Tsunami wave crashed against the raised houses and broke the pilings as if they were toothpicks.",
             "bugStatus":"Closed",
+			"bugSeverity":"5",
             "bugDateReported":"2019-08-20T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-20T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
         
               
@@ -60,9 +65,10 @@
             "bugID":"BR0106",
             "bugDescription":"All she wanted was the answer, but she had no idea how much she would hate it.",
             "bugStatus":"Closed",
+			"bugSeverity":"2",
             "bugDateReported":"2019-09-17T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                
             ]
@@ -71,9 +77,10 @@
             "bugID":"BR0107",
             "bugDescription":"I would have gotten the promotion, but my attendance wasn’t good enough.",
             "bugStatus":"In Progress",
+			"bugSeverity":"1",
             "bugDateReported":"2019-10-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -82,9 +89,10 @@
             "bugID":"BR0108",
             "bugDescription":"Although it wasn't a pot of gold, Nancy was still enthralled at what she found at the end of the rainbow.",
             "bugStatus":"Open",
+			"bugSeverity":"4",
             "bugDateReported":"2019-08-21T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                
             ]
@@ -93,9 +101,10 @@
             "bugID":"BR0109",
             "bugDescription":"Greetings from the real universe.",
             "bugStatus":"Closed",
+			"bugSeverity":"3",
             "bugDateReported":"2020-03-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-20T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -103,12 +112,13 @@
             "bugID":"BR0110",
             "bugDescription":"When I was little I had a car door slammed shut on my hand and I still remember it quite vividly.",
             "bugStatus":"In Progress",
+			"bugSeverity":"5",
             "bugDateReported":"2020-04-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-09-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 {
-                    "name":"Lucas",
+                    "name":"BryanSWH231",
                     "role":"Bug Reporter",
                     "comment":"dfgfsdgfdfhdfgsdsxdfgdfhedrf",
                     "commentDate":"2020-09-14T23:15:30.000Z"
@@ -118,9 +128,10 @@
             "bugID":"BR0111",
             "bugDescription":"He embraced his new life as an eggplant.",
             "bugStatus":"Awaiting Testing",
+			"bugSeverity":"1",
             "bugDateReported":"2019-08-30T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -129,9 +140,10 @@
             "bugID":"BR0112",
             "bugDescription":"Martha came to the conclusion that shake weights are a great gift for any occasion.",
             "bugStatus":"Open",
+			"bugSeverity":"5",
             "bugDateReported":"2020-08-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -140,9 +152,10 @@
             "bugID":"BR0113",
             "bugDescription":"The pigs were insulted that they were named hamburgers.",
             "bugStatus":"In progess",
+			"bugSeverity":"4",
             "bugDateReported":"2019-09-25T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                
             ]
@@ -151,9 +164,10 @@
             "bugID":"BR0114",
             "bugDescription":"The Japanese yen for commerce is still well-known.",
             "bugStatus":"Closed",
+			"bugSeverity":"2",
             "bugDateReported":"2019-07-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -162,9 +176,10 @@
             "bugID":"BR0115",
             "bugDescription":"We have young kids who often walk into our room at night for various reasons including clowns in the closet.",
             "bugStatus":"Awaiting Testing",
+			"bugSeverity":"3",
             "bugDateReported":"2019-09-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                
             ]
@@ -173,9 +188,10 @@
             "bugID":"BR0116",
             "bugDescription":"When money was tight, he'd get his lunch money from the local wishing well.",
             "bugStatus":"Closed",
+			"bugSeverity":"5",
             "bugDateReported":"2019-08-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-07-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
                
@@ -185,9 +201,10 @@
             "bugID":"BR0117",
             "bugDescription":"I come from a tribe of head-hunters, so I will never need a shrink.",
             "bugStatus":"Closed",
+			"bugSeverity":"3",
             "bugDateReported":"2019-08-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                
             ]
@@ -196,9 +213,10 @@
             "bugID":"BR0118",
             "bugDescription":"She wore green lipstick like a fashion icon.",
             "bugStatus":"Closed",
+			"bugSeverity":"1",
             "bugDateReported":"2019-08-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -207,9 +225,10 @@
             "bugID":"BR0119",
             "bugDescription":"The fifty mannequin heads floating in the pool kind of freaked them out.",
             "bugStatus":"Closed",
+			"bugSeverity":"2",
             "bugDateReported":"2019-08-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                
             ]
@@ -218,12 +237,13 @@
             "bugID":"BR0120",
             "bugDescription":"You're good at English when you know the difference between a man eating chicken and a man-eating chicken.",
             "bugStatus":"Closed",
+			"bugSeverity":"4",
             "bugDateReported":"2019-08-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 {
-                    "name":"Harsono",
+                    "name":"BryanSWH231",
                     "role":"Bug Reporter",
                     "comment":"aoifjodifoajgoiaejrogjoaeirgjoaejrgdsjofiawjeofiaodjisf",
                     "commentDate":"2020-08-14T23:15:30.000Z"
@@ -234,9 +254,10 @@
             "bugID":"BR0121",
             "bugDescription":"It dawned on her that others could make her happier, but only she could make herself happy.",
             "bugStatus":"Closed",
+			"bugSeverity":"1",
             "bugDateReported":"2019-08-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                
             ]
@@ -245,9 +266,10 @@
             "bugID":"BR0122",
             "bugDescription":"Eating eggs on Thursday for choir practice was recommended.",
             "bugStatus":"Closed",
+			"bugSeverity":"3",
             "bugDateReported":"2019-08-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -256,9 +278,10 @@
             "bugID":"BR0123",
             "bugDescription":"The fish dreamed of escaping the fishbowl and into the toilet where he saw his friend go.",
             "bugStatus":"Closed",
+			"bugSeverity":"5",
             "bugDateReported":"2019-08-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -267,9 +290,10 @@
             "bugID":"BR0124",
             "bugDescription":"People generally approve of dogs eating cat food but not cats eating dog food.",
             "bugStatus":"Closed",
+			"bugSeverity":"4",
             "bugDateReported":"2019-08-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -278,9 +302,10 @@
             "bugID":"BR0125",
             "bugDescription":"The sunblock was handed to the girl before practice, but the burned skin was proof she did not apply it.",
             "bugStatus":"Closed",
+			"bugSeverity":"2",
             "bugDateReported":"2019-08-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                
             ]
@@ -289,9 +314,10 @@
             "bugID":"BR0126",
             "bugDescription":"his seven-layer cake only had six layers.",
             "bugStatus":"Closed",
+			"bugSeverity":"1",
             "bugDateReported":"2019-08-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                
             ]
@@ -300,9 +326,10 @@
             "bugID":"BR0127",
             "bugDescription":"I covered my friend in baby oil.",
             "bugStatus":"Open",
+			"bugSeverity":"2",
             "bugDateReported":"2019-10-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                
             ]
@@ -311,9 +338,10 @@
             "bugID":"BR0128",
             "bugDescription":"Today I heard something new and unmemorable.",
             "bugStatus":"In Progress",
+			"bugSeverity":"3",
             "bugDateReported":"2019-08-21T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                
             ]
@@ -322,9 +350,10 @@
             "bugID":"BR0129",
             "bugDescription":"The gloves protect my feet from excess work.",
             "bugStatus":"Open",
+			"bugSeverity":"4",
             "bugDateReported":"2019-11-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-09-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -333,12 +362,13 @@
             "bugID":"BR0130",
             "bugDescription":"You'll see the rainbow bridge after it rains cats and dogs.",
             "bugStatus":"Closed",
+			"bugSeverity":"5",
             "bugDateReported":"2020-01-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 {
-                    "name":"Gordon",
+                    "name":"MaxRWK732",
                     "role":"Developer",
                     "comment":"aoifjodifoajgoiaejrogjoaeirgjoaejrgdsjofiaodsfughsdfgzxcvdawjeofiaodjisf",
                     "commentDate":"2020-08-14T23:15:30.000Z"
@@ -349,9 +379,10 @@
             "bugID":"BR0131",
             "bugDescription":"This is the last random sentence I will be writing and I am going to stop mid-sent",
             "bugStatus":"Closed",
-            "bugDateReported":"2020-02-21T23:15:30.000Z",
+			"bugSeverity":"4",
+            "bugDateReported:"2020-02-21T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -360,9 +391,10 @@
             "bugID":"BR0132",
             "bugDescription":"When I cook spaghetti, I like to boil it a few minutes past al dente so the noodles are super slippery.",
             "bugStatus":"Awaiting Testing",
+			"bugSeverity":"1",
             "bugDateReported":"2020-03-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -371,9 +403,10 @@
             "bugID":"BR0133",
             "bugDescription":"Her hair was windswept as she rode in the black convertible.",
             "bugStatus":"Closed",
+			"bugSeverity":"3",
             "bugDateReported":"2020-04-21T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-20T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -382,9 +415,10 @@
             "bugID":"BR0134",
             "bugDescription":"The beauty of the African sunset disguised the danger lurking nearby.",
             "bugStatus":"Open",
+			"bugSeverity":"2",
             "bugDateReported":"2019-08-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -393,9 +427,10 @@
             "bugID":"BR0135",
             "bugDescription":"Mary realized if her calculator had a history, it would be more embarrassing than her computer browser history.",
             "bugStatus":"In Progress",
+			"bugSeverity":"5",
             "bugDateReported":"2019-07-15T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                
             ]
@@ -404,9 +439,10 @@
             "bugID":"BR0136",
             "bugDescription":"Everyone was busy, so I went to the movie alone.",
             "bugStatus":"Open",
+			"bugSeverity":"1",
             "bugDateReported":"2019-08-19T22:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                
             ]
@@ -415,9 +451,10 @@
             "bugID":"BR0137",
             "bugDescription":"Three years later, the coffin was still full of Jello.",
             "bugStatus":"Open",
+			"bugSeverity":"2",
             "bugDateReported":"2019-08-17T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -426,9 +463,10 @@
             "bugID":"BR0138",
             "bugDescription":"The snow-covered path was no help in finding his way out of the back-country.",
             "bugStatus":"Awaiting Testing",
+			"bugSeverity":"5",
             "bugDateReported":"2019-08-21T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -437,9 +475,10 @@
             "bugID":"BR0139",
             "bugDescription":"So long and thanks for the fish.",
             "bugStatus":"In Progress",
+			"bugSeverity":"3",
             "bugDateReported":"2019-08-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                
             ]
@@ -448,12 +487,13 @@
             "bugID":"BR0140",
             "bugDescription":"His ultimate dream fantasy consisted of being content and sleeping eight hours in a row.",
             "bugStatus":"Closed",
+			"bugSeverity":"4",
             "bugDateReported":"2020-07-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 {
-                    "name":"Laksh",
+                    "name":"MaxRWK732",
                     "role":"Developer",
                     "comment":"aoifjodilkjhhjklgiolhjoiaejrogjoaeirgjoaejrgdsjofiawjeofiaodjisf",
                     "commentDate":"2020-08-14T23:15:30.000Z"
@@ -464,9 +504,10 @@
             "bugID":"BR0141",
             "bugDescription":"They ran around the corner to find that they had traveled back in time.",
             "bugStatus":"Closed",
+			"bugSeverity":"1",
             "bugDateReported":"2019-08-22T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -475,9 +516,10 @@
             "bugID":"BR0142",
             "bugDescription":"He was 100% into fasting with her until he understood that meant he couldn't eat.",
             "bugStatus":"Open",
+			"bugSeverity":"4",
             "bugDateReported":"2020-06-20T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -486,9 +528,10 @@
             "bugID":"BR0143",
             "bugDescription":"The gruff old man sat in the back of the bait shop grumbling to himself as he scooped out a handful of worms.",
             "bugStatus":"Open",
+			"bugSeverity":"2",
             "bugDateReported":"2020-05-22T23:15:30.000Z",
             "bugLastBumpDate":"2020-10-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -497,9 +540,10 @@
             "bugID":"BR0144",
             "bugDescription":"Whenever he saw a red flag warning at the beach he grabbed his surfboard.",
             "bugStatus":"In Progress",
+			"bugSeverity":"3",
             "bugDateReported":"2019-08-20T19:15:30.000Z",
             "bugLastBumpDate":"2020-09-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -508,9 +552,10 @@
             "bugID":"BR0145",
             "bugDescription":"Even with the snow falling outside, she felt it appropriate to wear her bikini.",
             "bugStatus":"Awaiting Testing",
+			"bugSeverity":"5",
             "bugDateReported":"2019-10-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -519,9 +564,10 @@
             "bugID":"BR0146",
             "bugDescription":"All you need to do is pick up the pen and begin.",
             "bugStatus":"Closed",
+			"bugSeverity":"3",
             "bugDateReported":"2019-10-20T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                
             ]
@@ -530,9 +576,10 @@
             "bugID":"BR1047",
             "bugDescription":"Don't step on the broken glass.",
             "bugStatus":"In Progress",
+			"bugSeverity":"2",
             "bugDateReported":"2019-09-23T23:20:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -541,9 +588,10 @@
             "bugID":"BR0148",
             "bugDescription":"The wake behind the boat told of the past while the open sea for told life in the unknown future.",
             "bugStatus":"Open",
+			"bugSeverity":"1",
             "bugDateReported":"2020-06-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-10-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -552,9 +600,10 @@
             "bugID":"BR0149",
             "bugDescription":"Nothing is as cautiously cuddly as a pet porcupine.",
             "bugStatus":"Closed",
+			"bugSeverity":"4",
             "bugDateReported":"2019-10-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -563,12 +612,13 @@
             "bugID":"BR0150",
             "bugDescription":"Had he known what was going to happen, he would have never stepped into the shower.",
             "bugStatus":"Open",
+			"bugSeverity":"5",
             "bugDateReported":"2019-07-19T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 {
-                    "name":"Laksh",
+                    "name":"LilyDPM529",
                     "role":"Developer",
                     "comment":"aoifjodifoajgoihjiughrogjoaeirgjoaejrgdsjofiawjeofiaodjisf",
                     "commentDate":"2020-08-14T23:15:30.000Z"
@@ -579,9 +629,10 @@
             "bugID":"BR0151",
             "bugDescription":"As he looked out the window, he saw a clown walk by.",
             "bugStatus":"Open",
+			"bugSeverity":"1",
             "bugDateReported":"2019-08-25T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -590,9 +641,10 @@
             "bugID":"BR0152",
             "bugDescription":"There were white out conditions in the town; subsequently, the roads were impassable.",
             "bugStatus":"In Progress",
+			"bugSeverity":"3",
             "bugDateReported":"2019-10-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-10-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev2",
+            "bugAssignedTo":"MarkPCC",
             "bugComments":[
                 
             ]
@@ -601,9 +653,10 @@
             "bugID":"BR0153",
             "bugDescription":"When motorists sped in and out of traffic, all she could think of was those in need of a transplant.",
             "bugStatus":"Awaiting Testing",
+			"bugSeverity":"5",
             "bugDateReported":"2019-12-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev3",
+            "bugAssignedTo":"JoshuaBRQ83",
             "bugComments":[
                 
             ]
@@ -612,9 +665,10 @@
             "bugID":"BR0154",
             "bugDescription":"Thirty years later, she still thought it was okay to put the toilet paper roll under rather than over.",
             "bugStatus":"In progess",
+			"bugSeverity":"2",
             "bugDateReported":"2019-11-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev4",
+            "bugAssignedTo":"InaayahRu214",
             "bugComments":[
                 
             ]
@@ -623,9 +677,10 @@
             "bugID":"BR0155",
             "bugDescription":"You've been eyeing me all day and waiting for your move like a lion stalking a gazelle in a savannah.",
             "bugStatus":"Open",
+			"bugSeverity":"4",
             "bugDateReported":"2019-10-25T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -634,9 +689,10 @@
             "bugID":"BR0156",
             "bugDescription":"It's much more difficult to play tennis with a bowling ball than it is to bowl with a tennis ball.",
             "bugStatus":"Closed",
+			"bugSeverity":"5",
             "bugDateReported":"2019-12-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev2",
+            "bugAssignedTo":"MarkPCC",
             "bugComments":[
                 
             ]
@@ -645,9 +701,10 @@
             "bugID":"BR0157",
             "bugDescription":"The clock within this blog and the clock on my laptop are 1 hour different from each other.",
             "bugStatus":"Closed",
+			"bugSeverity":"4",
             "bugDateReported":"2019-07-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev3",
+            "bugAssignedTo":"JoshuaBRQ83",
             "bugComments":[
                 
             ]
@@ -656,9 +713,10 @@
             "bugID":"BR0158",
             "bugDescription":"Shingle color was not something the couple had ever talked about.",
             "bugStatus":"Awaiting Testing",
+			"bugSeverity":"3",
             "bugDateReported":"2019-10-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev4",
+            "bugAssignedTo":"InaayahRu214",
             "bugComments":[
                 
             ]
@@ -667,9 +725,10 @@
             "bugID":"BR0159",
             "bugDescription":"She wrote him a long letter, but he didn't read it.",
             "bugStatus":"Open",
+			"bugSeverity":"2",
             "bugDateReported":"2019-09-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -678,12 +737,13 @@
             "bugID":"BR0160",
             "bugDescription":"I don’t respect anybody who can’t tell the difference between Pepsi and Coke.",
             "bugStatus":"Closed",
+			"bugSeverity":"1",
             "bugDateReported":"2019-10-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev2",
+            "bugAssignedTo":"MarkPCC",
             "bugComments":[
                 {
-                    "name":"BugRep1",
+                    "name":"JaydenBro621",
                     "role":"Bug Reporter",
                     "comment":"aoifjodifoajgoihjiughrogjoaeirgjoaejrgdsouhgkljbnwjeofiaodjisf",
                     "commentDate":"2020-08-14T23:15:30.000Z"
@@ -694,9 +754,10 @@
             "bugID":"BR0161",
             "bugDescription":"He was surprised that his immense laziness was inspirational to others.",
             "bugStatus":"Open",
+			"bugSeverity":"1",
             "bugDateReported":"2019-07-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev3",
+            "bugAssignedTo":"JoshuaBRQ83",
             "bugComments":[
                 
             ]
@@ -705,9 +766,10 @@
             "bugID":"BR0162",
             "bugDescription":"He played the game as if his life depended on it and the truth was that it did.",
             "bugStatus":"Closed",
+			"bugSeverity":"2",
             "bugDateReported":"2019-10-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev3",
+            "bugAssignedTo":"JoshuaBRQ83",
             "bugComments":[
                 
             ]
@@ -716,9 +778,10 @@
             "bugID":"BR0163",
             "bugDescription":"They say that dogs are man's best friend, but this cat was setting out to sabotage that theory.",
             "bugStatus":"Open",
+			"bugSeverity":"3",
             "bugDateReported":"2019-11-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev4",
+            "bugAssignedTo":"InaayahRu214",
             "bugComments":[
                 
             ]
@@ -727,9 +790,10 @@
             "bugID":"BR0164",
             "bugDescription":"She used her own hair in the soup to give it more flavor.",
             "bugStatus":"Closed",
+			"bugSeverity":"4",
             "bugDateReported":"2019-10-22T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -738,9 +802,10 @@
             "bugID":"BR0165",
             "bugDescription":"He barked orders at his daughters but they just stared back with amusement.",
             "bugStatus":"Awaiting Testing",
+			"bugSeverity":"5",
             "bugDateReported":"2019-10-20T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev2",
+            "bugAssignedTo":"MarkPCC",
             "bugComments":[
                 
             ]
@@ -749,9 +814,10 @@
             "bugID":"BR0166",
             "bugDescription":"Greetings from the real universe.",
             "bugStatus":"Closed",
+			"bugSeverity":"5",
             "bugDateReported":"2019-10-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-09-20T23:15:30.000Z",
-            "bugAssignedTo":"Dev3",
+            "bugAssignedTo":"JoshuaBRQ83",
             "bugComments":[
                 
             ]
@@ -760,9 +826,10 @@
             "bugID":"BR0167",
             "bugDescription":"He had decided to accept his fate of accepting his fate.",
             "bugStatus":"Closed",
+			"bugSeverity":"3",
             "bugDateReported":"2019-06-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-07-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev4",
+            "bugAssignedTo":"InaayahRu214",
             "bugComments":[
                 
             ]
@@ -771,9 +838,10 @@
             "bugID":"BR0168",
             "bugDescription":"The lake is a long way from here.",
             "bugStatus":"Closed",
+			"bugSeverity":"1",
             "bugDateReported":"2019-10-120T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -782,9 +850,10 @@
             "bugID":"BR0169",
             "bugDescription":"The body piercing didn't go exactly as he expected.",
             "bugStatus":"Closed",
+			"bugSeverity":"4",
             "bugDateReported":"2019-10-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev2",
+            "bugAssignedTo":"MarkPCC",
             "bugComments":[
                 
             ]
@@ -793,12 +862,13 @@
             "bugID":"BR0170",
             "bugDescription":"His mind was blown that there was nothing in space except space itself.",
             "bugStatus":"Closed",
+			"bugSeverity":"2",
             "bugDateReported":"2019-10-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev3",
+            "bugAssignedTo":"JoshuaBRQ83",
             "bugComments":[
                 {
-                    "name":"Laksh",
+                    "name":"RonaldCAH625",
                     "role":"Developer",
                     "comment":"aoifjodifoajgoihjiughojahsvkljbrgdsjofiawjeofiaodjisf",
                     "commentDate":"2020-08-14T23:15:30.000Z"
@@ -809,9 +879,10 @@
             "bugID":"BR0171",
             "bugDescription":"I currently have 4 windows open up… and I don’t know why.",
             "bugStatus":"Awaiting testing",
+			"bugSeverity":"1",
             "bugDateReported":"2019-09-29T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev4",
+            "bugAssignedTo":"InaayahRu214",
             "bugComments":[
                 
             ]
@@ -820,9 +891,10 @@
             "bugID":"BR0172",
             "bugDescription":"The murder hornet was disappointed by the preconceived ideas people had of him.",
             "bugStatus":"In Progress",
+			"bugSeverity":"4",
             "bugDateReported":"2019-10-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -831,9 +903,10 @@
             "bugID":"BR0173",
             "bugDescription":"He invested some skill points in Charisma and Strength.",
             "bugStatus":"Closed",
+			"bugSeverity":"2",
             "bugDateReported":"2019-08-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev2",
+            "bugAssignedTo":"MarkPCC",
             "bugComments":[
                 
             ]
@@ -841,9 +914,10 @@
             "bugID":"BR0174",
             "bugDescription":"Beach-combing replaced wine tasting as his new obsession.",
             "bugStatus":"Closed",
+			"bugSeverity":"3",
             "bugDateReported":"2020-01-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev3",
+            "bugAssignedTo":"JoshuaBRQ83",
             "bugComments":[
                 
             ]
@@ -852,9 +926,10 @@
             "bugID":"BR0175",
             "bugDescription":"They wandered into a strange Tiki bar on the edge of the small beach town.",
             "bugStatus":"Closed",
+			"bugSeverity":"5",
             "bugDateReported":"2019-12-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev4",
+            "bugAssignedTo":"InaayahRu214",
             "bugComments":[
                 
             ]
@@ -863,9 +938,10 @@
             "bugID":"BR0176",
             "bugDescription":"When he encountered maize for the first time, he thought it incredibly corny.",
             "bugStatus":"Closed",
+			"bugSeverity":"2",
             "bugDateReported":"2019-11-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -874,9 +950,10 @@
             "bugID":"BR0177",
             "bugDescription":"She had the gift of being able to paint songs.",
             "bugStatus":"Open",
+			"bugSeverity":"4",
             "bugDateReported":"2019-12-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-30T23:15:30.000Z",
-            "bugAssignedTo":"Dev2",
+            "bugAssignedTo":"MarkPCC",
             "bugComments":[
                 
             ]
@@ -885,9 +962,10 @@
             "bugID":"BR0178",
             "bugDescription":"Sometimes, all you need to do is completely make an ass of yourself and laugh it off to realise that life isn’t so bad after all.",
             "bugStatus":"Open",
+			"bugSeverity":"3",
             "bugDateReported":"2019-10-22T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev3",
+            "bugAssignedTo":"JoshuaBRQ83",
             "bugComments":[
                 
             ]
@@ -896,9 +974,10 @@
             "bugID":"BR0179",
             "bugDescription":"It was always dangerous to drive with him since he insisted the safety cones were a slalom course.",
             "bugStatus":"Awaiting Testing",
+			"bugSeverity":"1",
             "bugDateReported":"2019-12-19T23:20:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev4",
+            "bugAssignedTo":"InaayahRu214",
             "bugComments":[
                 
             ]
@@ -907,9 +986,10 @@
             "bugID":"BR0180",
             "bugDescription":"Car safety systems have come a long way, but he was out to prove they could be outsmarted.",
             "bugStatus":"In Progress",
+			"bugSeverity":"5",
             "bugDateReported":"2019-09-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -918,9 +998,10 @@
             "bugID":"BR0181",
             "bugDescription":"Sometimes I stare at a door or a wall and I wonder what is this reality, why am I alive, and what is this all about?",
             "bugStatus":"Closed",
+			"bugSeverity":"1",
             "bugDateReported":"2019-07-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev2",
+            "bugAssignedTo":"MarkPCC",
             "bugComments":[
                 
             ]
@@ -929,9 +1010,10 @@
             "bugID":"BR0182",
             "bugDescription":"25 years later, she still regretted that specific moment.",
             "bugStatus":"Closed",
+			"bugSeverity":"2",
             "bugDateReported":"2019-06-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-09-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev3",
+            "bugAssignedTo":"JoshuaBRQ83",
             "bugComments":[
                 
             ]
@@ -940,9 +1022,10 @@
             "bugID":"BR0183",
             "bugDescription":"He liked to play with words in the bathtub.",
             "bugStatus":"Open",
+			"bugSeverity":"3",
             "bugDateReported":"2019-12-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-07-20T23:15:30.000Z",
-            "bugAssignedTo":"Dev4",
+            "bugAssignedTo":"InaayahRu214",
             "bugComments":[
                 
             ]
@@ -951,9 +1034,10 @@
             "bugID":"BR0184",
             "bugDescription":"If I don’t like something, I’ll stay away from it.",
             "bugStatus":"Closed",
+			"bugSeverity":"4",
             "bugDateReported":"2019-12-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-21T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -962,9 +1046,10 @@
             "bugID":"BR0185",
             "bugDescription":"The book is in front of the table.",
             "bugStatus":"In Progress",
+			"bugSeverity":"5",
             "bugDateReported":"2019-12-20T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-22T23:15:30.000Z",
-            "bugAssignedTo":"Dev2",
+            "bugAssignedTo":"MarkPCC",
             "bugComments":[
                 
             ]
@@ -973,9 +1058,10 @@
             "bugID":"BR0186",
             "bugDescription":"The tears of a clown make my lipstick run, but my shower cap is still intact.",
             "bugStatus":"Awaiting Testing",
+			"bugSeverity":"5",
             "bugDateReported":"2019-12-21T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-25T23:15:30.000Z",
-            "bugAssignedTo":"Dev3",
+            "bugAssignedTo":"JoshuaBRQ83",
             "bugComments":[
                 
             ]
@@ -984,9 +1070,10 @@
             "bugID":"BR0187",
             "bugDescription":"A dead duck doesn't fly backward.",
             "bugStatus":"Closed",
+			"bugSeverity":"3",
             "bugDateReported":"2019-12-19T22:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev4",
+            "bugAssignedTo":"InaayahRu214",
             "bugComments":[
                 
             ]
@@ -995,9 +1082,10 @@
             "bugID":"BR0188",
             "bugDescription":"Green should have smelled more tranquil, but somehow it just tasted rotten.",
             "bugStatus":"Open",
+			"bugSeverity":"4",
             "bugDateReported":"2019-11-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -1006,9 +1094,10 @@
             "bugID":"BR0189",
             "bugDescription":"When nobody is around, the trees gossip about the people who have walked under them.",
             "bugStatus":"Open",
+			"bugSeverity":"1",
             "bugDateReported":"2019-12-25T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev2",
+            "bugAssignedTo":"MarkPCC",
             "bugComments":[
                 
             ]
@@ -1017,20 +1106,22 @@
             "bugID":"BR0190",
             "bugDescription":"I really want to go to work, but I am too sick to drive.",
             "bugStatus":"Closed",
+			"bugSeverity":"2",
             "bugDateReported":"2019-12-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-21T23:15:30.000Z",
-            "bugAssignedTo":"Dev3",
+            "bugAssignedTo":"JoshuaBRQ83",
             "bugComments":[
                 
             ]
         },
 		{
             "bugID":"BR0191",
-            "bugDescription":"",
+            "bugDescription":"A dead duck doesn't fly backward.",
             "bugStatus":"Closed",
+			"bugSeverity":"5",
             "bugDateReported":"2019-12-18T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev4",
+            "bugAssignedTo":"InaayahRu214",
             "bugComments":[
                 
             ]
@@ -1039,9 +1130,10 @@
             "bugID":"BR0192",
             "bugDescription":"She couldn't decide of the glass was half empty or half full so she drank it.",
             "bugStatus":"Awaiting Testing",
+			"bugSeverity":"1",
             "bugDateReported":"2019-10-15T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -1050,9 +1142,10 @@
             "bugID":"BR0193",
             "bugDescription":"She wanted a pet platypus but ended up getting a duck and a ferret instead.",
             "bugStatus":"Closed",
+			"bugSeverity":"4",
             "bugDateReported":"2019-12-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-07-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev2",
+            "bugAssignedTo":"MarkPCC",
             "bugComments":[
                 
             ]
@@ -1061,9 +1154,10 @@
             "bugID":"BR0194",
             "bugDescription":"He hated that he loved what she hated about hate.",
             "bugStatus":"In Progress",
+			"bugSeverity":"2",
             "bugDateReported":"2019-12-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-05-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev3",
+            "bugAssignedTo":"JoshuaBRQ83",
             "bugComments":[
                 
             ]
@@ -1072,9 +1166,10 @@
             "bugID":"BR0195",
             "bugDescription":"When he had to picnic on the beach, he purposely put sand in other people’s food.",
             "bugStatus":"Closed",
+			"bugSeverity":"3",
             "bugDateReported":"2019-12-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-10-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev4",
+            "bugAssignedTo":"InaayahRu214",
             "bugComments":[
                 
             ]
@@ -1083,9 +1178,10 @@
             "bugID":"BR0196",
             "bugDescription":"He looked behind the door and didn't like what he saw.",
             "bugStatus":"Open",
+			"bugSeverity":"5",
             "bugDateReported":"2019-12-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-09-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
@@ -1094,9 +1190,10 @@
             "bugID":"BR0197",
             "bugDescription":"Now I need to ponder my existence and ask myself if I'm truly real",
             "bugStatus":"Open",
+			"bugSeverity":"3",
             "bugDateReported":"2019-12-25T23:16:30.000Z",
             "bugLastBumpDate":"2020-11-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev2",
+            "bugAssignedTo":"MarkPCC",
             "bugComments":[
                 
             ]
@@ -1105,9 +1202,10 @@
             "bugID":"BR0198",
             "bugDescription":"He took one look at what was under the table and noped the hell out of there.",
             "bugStatus":"Closed",
+			"bugSeverity":"1",
             "bugDateReported":"2019-12-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-25T22:15:30.000Z",
-            "bugAssignedTo":"Dev3",
+            "bugAssignedTo":"JoshuaBRQ83",
             "bugComments":[
                 
             ]
@@ -1116,9 +1214,10 @@
             "bugID":"BR0199",
             "bugDescription":"Blue sounded too cold at the time and yet it seemed to work for gin.",
             "bugStatus":"In Progress",
+			"bugSeverity":"2",
             "bugDateReported":"2019-12-21T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev4",
+            "bugAssignedTo":"InaayahRu214",
             "bugComments":[
                 
             ]
@@ -1127,9 +1226,10 @@
             "bugID":"BR0200",
             "bugDescription":"I want to buy a onesie… but know it won’t suit me.",
             "bugStatus":"Closed",
+			"bugSeverity":"4",
             "bugDateReported":"2019-11-19T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"Dev1",
+            "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
                 
             ]
