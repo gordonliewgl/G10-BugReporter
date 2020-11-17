@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif;
+    background-image: url('https://i.pinimg.com/originals/f1/32/15/f13215a3276ab6f25339d39221caa4aa.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h2 {
+    background: white;
+    color: black;
+    text-align:center;
+}
+
+.loginform {
+    margin:100px 550px ;
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    top: 50%;
+    left: 50%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.registerform {
+    margin:100px 550px ;
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    top: 50%;
+    left: 50%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.bugform {
+    margin:100px 200px ;
+    width: 1000px;
+    height: 1000px;
+    background-color: white;
+    top: 50%;
+    left: 10%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.logo {
+    width: 190px;
+    height: 190px;
+    border-radius: 50%;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.banner {
+    background-color:white;
+    width: 1400px;
+    height: 130px;
+    margin: 0px;
+    top: 0%;
+    left: 0%;
+}
