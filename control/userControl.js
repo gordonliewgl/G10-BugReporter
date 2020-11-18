@@ -12,7 +12,7 @@ module.exports.register = async (req, res, next) => {
         req.login(registeredUser, err => {
             if (err) return next(err);
             req.flash('success', 'Account successfully created!');
-            res.redirect('register');
+            res.redirect('/bugreports');
         })
     } catch (e) {
         req.flash('error', e.message);

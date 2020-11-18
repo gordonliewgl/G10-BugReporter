@@ -40,7 +40,7 @@
 
         <div class="form-group col-md-4">
             <label for="bugAssignedTo">Bug Assigned To</label>
-            <input type="text" class="form-control" id="bugAssignedTo" name="bugAssignedTo" value="<%= report.bugAssignedTo %>" readonly>
+            <input type="text" class="form-control" id="bugAssignedTo" name="bugAssignedTo" value="<%= report.bugAssignedTo %>" disabled>
         </div>
     </div>
 
@@ -51,12 +51,12 @@
         </div>
         <div class="form-group col">
             <label for="bugLastBumpDate">Last Bump Date</label>
-            <input type="text" class="form-control" id="bugLastBumpDate" name="bugLastBumpDate" value="<%= report.bugDateReported %>" readonly>
+            <input type="text" class="form-control" id="bugLastBumpDate" name="bugLastBumpDate" value="<%= report.bugLastBumpDate %>" readonly>
         </div>
     </div>
 
     <br>
-    <a class="card-link btn btn-info" href="/bugreports/<%=report._id%>/edit">Edit</a>
+    <a class="card-link btn btn-info" href="/bugreports/<%=report._id%>/edit" <%= currentRole === "Reviewer" ? 'hidden' : '' %>>Edit</a>
 </form>
 
 <br>

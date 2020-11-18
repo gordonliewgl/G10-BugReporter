@@ -41,9 +41,11 @@ module.exports.renderEditForm = async (req, res) => {
 
 module.exports.updateBugReport = async (req, res) => {
     const { id } = req.params;
-    const bugReport = await BugReport.findByIdAndUpdate(id, { ...req.body.bugreport });
+    const report = await BugReport.findByIdAndUpdate(id, { ...req.body.bugReport });
+    report.bugLastBumpDate = new Date().toISOString();
+    await report.save();
     req.flash('success', 'Successfully updated bug report!');
-    res.redirect(`/bugreports/${bugreports._id}`)
+    res.redirect(`/bugreports/${report._id}`)
 }
 
 module.exports.deleteBugReport = async (req, res) => {

@@ -10,9 +10,10 @@
     <thead class="thead-dark">
         <tr>
             <th scope="col-md-2">Bug ID</th>
-            <th scope="col-md-6">Bug Description</th>
+            <th scope="col-md-4">Bug Description</th>
             <th scope="col-md-2">Bug Status</th>
             <th scope="col-md-2">Assigned To</th>
+            <th scope="col-md-2">Last Bump Date</th>
         </tr>
     </thead>
     <tbody>
@@ -22,6 +23,8 @@
                 <td><%= bugreport.bugDescription %></td>
                 <td><%= bugreport.bugStatus %></td>
                 <td><%= bugreport.bugAssignedTo %></td>
+                <!-- Date in dd/mm/yyyy -->
+                <td><%= bugreport.bugLastBumpDate.getDate() %>/<%= bugreport.bugLastBumpDate.getMonth() %>/<%= bugreport.bugLastBumpDate.getFullYear() %></td>
             </tr>
         <% } %>
     </tbody>
