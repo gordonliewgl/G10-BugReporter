@@ -15,7 +15,16 @@ module.exports.createBugReport = async (req, res, next) => {
     const report = new BugReport(req.body.bugReport);
     await report.save();
     req.flash('success', 'Successfully made a new bug report!');
-    res.redirect(`/bugreports/${report._id}`)
+    return res.redirect(`/bugreports/${report._id}`)
+}
+
+module.exports.createBugReportComment = async (req, res, next) => {
+    const { id } = req.params;
+    const report = await BugReport.findById(id);
+    const reportComment = new BugReportComment(req.body.bugReportComment);
+    await BugReport.findByIdAndUpdate({_id: id}, {$push: {bugComments: reportComment}});
+    req.flash('success', 'Comment added!');
+    return res.redirect(`/bugreports/${report._id}`)
 }
 
 module.exports.showBugReport = async (req, res) => {
@@ -41,16 +50,15 @@ module.exports.renderEditForm = async (req, res) => {
 
 module.exports.updateBugReport = async (req, res) => {
     const { id } = req.params;
-    const report = await BugReport.findByIdAndUpdate(id, { ...req.body.bugReport });
-    report.bugLastBumpDate = new Date().toISOString();
-    await report.save();
+    const report = await BugReport.findById(id)
+    await BugReport.findByIdAndUpdate(id, { ...req.body.bugReport });
     req.flash('success', 'Successfully updated bug report!');
-    res.redirect(`/bugreports/${report._id}`)
+    return res.redirect(`/bugreports/${report._id}`)
 }
 
 module.exports.deleteBugReport = async (req, res) => {
     const { id } = req.params;
     await BugReport.findByIdAndDelete(id);
     req.flash('success', 'Successfully deleted bug report!')
-    res.redirect('/bugreports');
+    return res.redirect('/bugreports');
 }

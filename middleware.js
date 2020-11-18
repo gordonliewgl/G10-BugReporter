@@ -40,8 +40,31 @@ module.exports.isNotReviewer = (req, res, next) => {
     next();
 }
 
+module.exports.updateBugReportLastBumpDate = (req, res, next) => {
+    req.body.bugReport.bugLastBumpDate = new Date().toISOString();
+    next();
+}
+
 module.exports.validateBugReport = (req, res, next) => {
     const { error } = bugReportSchema.validate(req.body);
+    if (error) {
+        const msg = error.details.map(el => el.message).join(',')
+        throw new ExpressError(msg, 400)
+    } else {
+        next();
+    }
+}
+
+module.exports.addBugReportCommentDetails = (req, res, next) => {
+    req.body.bugReportComment.name = req.user.username;
+    req.body.bugReportComment.role = req.user.role;
+    req.body.bugReportComment.comment = req.body.bugReportComment.comment;
+    req.body.bugReportComment.commentDate = new Date().toISOString();
+    next();
+}
+
+module.exports.validateBugReportComment = (req, res, next) => {
+    const { error } = bugReportCommentSchema.validate(req.body);
     if (error) {
         const msg = error.details.map(el => el.message).join(',')
         throw new ExpressError(msg, 400)

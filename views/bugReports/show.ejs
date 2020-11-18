@@ -71,3 +71,14 @@
         </div>
     </div>
 <% } %>
+
+<br>
+
+<form action="/bugreports/<%=report._id%>" method="POST" novalidate class="was-validated">
+    <div class="form-row">
+        <div class="form-group col">
+            <textarea class="form-control" id="bugReportComment" rows="6" name="bugReportComment[comment]" placeholder="Add a comment..."></textarea>
+        </div>
+    </div>
+    <button class="btn btn-info">Add Comment</button>
+</form>
