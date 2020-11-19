@@ -17,7 +17,7 @@ module.exports.isDevAllowedToEditReport = async (req, res, next) => {
     if (req.user.role === "Developer" && !(report.bugAssignedTo === req.user.username)) {
         req.session.returnTo = req.originalUrl
         req.flash('error', 'You cannot edit a Bug Report that is not assigned to you!');
-        return res.redirect('/bugreports');
+        return res.redirect(`/bugreports/${report._id}`);
     }
     next();
 }
@@ -26,6 +26,15 @@ module.exports.isBugReporter = (req, res, next) => {
     if (req.user.role !== "Bug Reporter") {
         req.session.returnTo = req.originalUrl
         req.flash('error', 'You must be a Bug Reporter to create a Bug Report!');
+        return res.redirect('/bugreports');
+    }
+    next();
+}
+
+module.exports.isDeveloper = (req, res, next) => {
+    if (req.user.role !== "Developer") {
+        req.session.returnTo = req.originalUrl
+        req.flash('error', 'You are not a developer, you don\'t have any Bug Reports assigned to you!');
         return res.redirect('/bugreports');
     }
     next();

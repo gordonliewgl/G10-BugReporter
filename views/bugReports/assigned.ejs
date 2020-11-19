@@ -1,0 +1,29 @@
+<% layout('layouts/boilerplate')%>
+
+<h2>Bug Reports Assigned To You</h2>
+<br>
+<table class="table table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col-md-2">Bug ID</th>
+            <th scope="col-md-4">Bug Description</th>
+            <th scope="col-md-2">Bug Status</th>
+            <th scope="col-md-2">Assigned To</th>
+            <th scope="col-md-1">Date Reported</th>
+            <th scope="col-md-1">Last Bump Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        <% for (let bugreport of bugreports) { %>
+            <tr>
+                <td><a href="/bugreports/<%= bugreport._id %>"><%= bugreport.bugID %></a></td>
+                <td><%= bugreport.bugDescription %></td>
+                <td><%= bugreport.bugStatus %></td>
+                <td><%= bugreport.bugAssignedTo %></td>
+                <!-- Date in dd/mm/yyyy -->
+                <td><%= bugreport.bugDateReported.getDate() %>/<%= bugreport.bugDateReported.getMonth() + 1 %>/<%= bugreport.bugDateReported.getFullYear() %></td>
+                <td><%= bugreport.bugLastBumpDate.getDate() %>/<%= bugreport.bugLastBumpDate.getMonth() + 1 %>/<%= bugreport.bugLastBumpDate.getFullYear() %></td>
+            </tr>
+        <% } %>
+    </tbody>
+</table>

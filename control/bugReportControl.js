@@ -7,6 +7,13 @@ module.exports.index = async (req, res) => {
     res.render('bugreports/index', { bugreports });
 }
 
+module.exports.showAssignedReports = async (req, res) => {
+    let devAssigned = {};
+    devAssigned["bugAssignedTo"] = `${req.user.username}`;
+    const bugreports = await BugReport.find(devAssigned);
+    res.render('bugreports/assigned', { bugreports });
+}
+
 module.exports.renderNewForm = async (req, res) => {
     const users = await User.find({});
     res.render('bugreports/new', { users });
@@ -14,10 +21,6 @@ module.exports.renderNewForm = async (req, res) => {
 
 module.exports.renderSearchForm = async (req, res) => {
     const { bugID, bugDescription, bugDateReportedGTE, bugDateReportedLTE } = req.query;
-    console.log(`Bug ID: ${bugID}`);
-    console.log(`Bug Desc: ${bugDescription}`);
-    console.log(`Bug Date Reported after this date: ${bugDateReportedGTE}`);
-    console.log(`Bug Date Reported after this date: ${bugDateReportedLTE}`);
     let searchTerm = {};
     let results = {};
     if (bugDateReportedGTE && bugDateReportedLTE) {

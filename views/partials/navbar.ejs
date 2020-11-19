@@ -8,7 +8,10 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
                 <% if (currentUser && currentUser.role === "Bug Reporter") { %>
-                <a class="nav-link" href="/bugreports/new">New Bug Report</a> <!-- For bug reporter only -->
+                    <a class="nav-link" href="/bugreports/new">New Bug Report</a> <!-- For bug reporter only -->
+                <% } %>
+                <% if (currentUser && currentUser.role === "Developer") { %>
+                    <a class="nav-link" href="/bugreports/assigned">Your Assigned Reports</a> <!-- For developer only -->
                 <% } %>
                 <a class="nav-link" href="/bugreports/search">Search</a>
             </div>
