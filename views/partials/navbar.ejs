@@ -10,8 +10,14 @@
                 <% if (currentUser && currentUser.role === "Bug Reporter") { %>
                     <a class="nav-link" href="/bugreports/new">New Bug Report</a> <!-- For bug reporter only -->
                 <% } %>
+                <% if (currentUser && currentUser.role === "Triager") { %>
+                    <a class="nav-link" href="/bugreports/unassigned">Unassigned Reports</a> <!-- For triager only -->
+                <% } %>
                 <% if (currentUser && currentUser.role === "Developer") { %>
                     <a class="nav-link" href="/bugreports/assigned">Your Assigned Reports</a> <!-- For developer only -->
+                <% } %>
+                <% if (currentUser && currentUser.role === "Reviewer") { %>
+                    <a class="nav-link" href="/bugreports/review">Bugs to Review</a> <!-- For reviewer only -->
                 <% } %>
                 <a class="nav-link" href="/bugreports/search">Search</a>
             </div>

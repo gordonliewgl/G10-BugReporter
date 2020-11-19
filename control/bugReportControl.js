@@ -14,6 +14,16 @@ module.exports.showAssignedReports = async (req, res) => {
     res.render('bugreports/assigned', { bugreports });
 }
 
+module.exports.showUnassignedReports = async (req, res) => {
+    const bugreports = await BugReport.find({bugAssignedTo: "UNASSIGNED"});
+    res.render('bugreports/unassigned', { bugreports });
+}
+
+module.exports.showReportsToReview = async (req, res) => {
+    const bugreports = await BugReport.find({bugStatus: "Awaiting Testing"});
+    res.render('bugreports/unassigned', { bugreports });
+}
+
 module.exports.renderNewForm = async (req, res) => {
     const users = await User.find({});
     res.render('bugreports/new', { users });
@@ -79,11 +89,4 @@ module.exports.updateBugReport = async (req, res) => {
     await BugReport.findByIdAndUpdate(id, { ...req.body.bugReport });
     req.flash('success', 'Successfully updated bug report!');
     return res.redirect(`/bugreports/${report._id}`);
-}
-
-module.exports.deleteBugReport = async (req, res) => {
-    const { id } = req.params;
-    await BugReport.findByIdAndDelete(id);
-    req.flash('success', 'Successfully deleted bug report!');
-    return res.redirect('/bugreports');
 }

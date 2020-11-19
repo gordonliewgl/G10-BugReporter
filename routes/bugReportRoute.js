@@ -12,6 +12,10 @@ router.route('/')
 
 router.get('/assigned', isLoggedIn, isDeveloper, catchAsync(bugReportControl.showAssignedReports))
 
+router.get('/unassigned', isLoggedIn, catchAsync(bugReportControl.showUnassignedReports))
+
+router.get('/review', isLoggedIn, catchAsync(bugReportControl.showReportsToReview))
+
 router.get('/new', isLoggedIn, isBugReporter, bugReportControl.renderNewForm)
 
 router.get('/search', isLoggedIn, bugReportControl.renderSearchForm)
@@ -20,7 +24,6 @@ router.route('/:id')
     .get(isLoggedIn, catchAsync(bugReportControl.showBugReport))
     .put(isLoggedIn, isNotReviewer, isDevAllowedToEditReport, updateBugReportLastBumpDate, validateBugReport, catchAsync(bugReportControl.updateBugReport))
     .post(isLoggedIn, addBugReportCommentDetails, validateBugReportComment, catchAsync(bugReportControl.createBugReportComment))
-    .delete(isLoggedIn, catchAsync(bugReportControl.deleteBugReport));
 
 router.get('/:id/edit', isLoggedIn, isNotReviewer, isDevAllowedToEditReport, catchAsync(bugReportControl.renderEditForm));
 
