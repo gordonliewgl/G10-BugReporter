@@ -2,7 +2,7 @@
 
 <h4>Editing Bug Report</h4>
 <br>
-<form action="/bugreports/<%=report._id%>?_method=PUT" method="POST" novalidate class="was-validated">
+<form action="/bugreports/<%=report._id%>?_method=PUT" method="POST" novalidate class="needs-validation">
     <div class="form-row">
         <div class="form-group col-md-2">
             <label for="bugID">Bug ID</label>
@@ -10,7 +10,7 @@
             pattern="BR[0-9]{4,}" required>
         </div>
         <div class="valid-feedback">Looks good!</div>
-        <div class="invalid-feedback">Please fill out this field.</div>
+        <div class="invalid-feedback">Please ensure that the Bug ID has "BR" at the start and at least 4 numbers.</div>
     </div>
     
     <div class="form-row">

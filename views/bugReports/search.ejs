@@ -35,11 +35,11 @@
     </div>
 </div>
 
-<form action="/bugreports/search" method="GET">
+<form action="/bugreports/search" method="GET" class="needs-validation">
     <br>
     <label for="searchTerm">Search Term</label>
     <div class="form-row" id="searchBar">
-        <input type="text" class="form-control col-md-11" id="searchTerm" name="bugID">
+        <input type="text" class="form-control col-md-11" id="searchTerm" name="bugID" required>
         <button class="btn btn-info col-md-1">Search</button>
     </div>
 </form>

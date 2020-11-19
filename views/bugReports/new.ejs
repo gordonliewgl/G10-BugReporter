@@ -2,13 +2,13 @@
 
 <h4>New Bug Report</h4>
 <br>
-<form action="/bugreports" method="POST" novalidate class="was-validated">
+<form action="/bugreports" method="POST" novalidate class="needs-validation">
     <div class="form-row">
         <div class="form-group col-md-2">
             <label for="bugID">Bug ID</label>
             <input type="text" class="form-control" id="bugID" name="bugReport[bugID]" pattern="BR[0-9]{4,}" required>
             <div class="valid-feedback">Looks good!</div>
-            <div class="invalid-feedback">Please fill out this field.</div>
+            <div class="invalid-feedback">Please ensure that the Bug ID has "BR" at the start and at least 4 numbers.</div>
         </div>
     </div>
     
@@ -30,9 +30,6 @@
                 <option value="Awaiting Testing">Awaiting Testing</option>
                 <option value="Closed">Closed</option>
             </select>
-            <div class="valid-feedback">
-                Looks good!
-            </div>
         </div>
 
         <div class="form-group col-md-4">
@@ -44,9 +41,6 @@
                 <option>4</option>
                 <option>5</option>
             </select>
-            <div class="valid-feedback">
-                Looks good!
-            </div>
         </div>
 
         <div class="form-group col-md-4" hidden>
@@ -54,9 +48,6 @@
             <select class="form-control" id="bugAssignedTo" name="bugReport[bugAssignedTo]" required>
                 <option value="UNASSIGNED">UNASSIGNED</option>
             </select>
-            <div class="valid-feedback">
-                Looks good!
-            </div>
         </div>
     </div>
 
