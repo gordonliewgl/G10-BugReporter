@@ -7,7 +7,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-                <% if (currentRole === "Bug Reporter") { %>
+                <% if (currentUser && currentUser.role === "Bug Reporter") { %>
                 <a class="nav-link" href="/bugreports/new">New Bug Report</a> <!-- For bug reporter only -->
                 <% } %>
                 <a class="nav-link" href="/bugreports/search">Search</a>
