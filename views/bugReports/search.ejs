@@ -6,20 +6,50 @@
 <script type="text/javascript">
     function changeSearchTerm() {
         if (document.getElementById('queryRadio1').checked) {
-            document.getElementById('searchTermLabel').innerHTML = "Search in Bug ID";
+            // Change the searchTerm to search for bug ID
+            document.getElementById('searchBarLabel').innerHTML = "Search in Bug ID";
+            
+            // Clear and disable the after-this-date date selector
+            document.getElementById('bugDateReportedGTE').value = "";
+            document.getElementById('bugDateReportedGTE').setAttribute("disabled", true);
+            document.getElementById('bugDateReportedGTE').setAttribute("hidden", true);
+            document.getElementById('bugDateReportedGTE').removeAttribute("required");
+            
+            // Change the searchTerm to search for bug description
             document.getElementById('searchTerm').value = "";
             document.getElementById('searchTerm').type = "text";
+            document.getElementById('searchTerm').className = "form-control col-md-10";
             document.getElementById('searchTerm').name = "bugID";
         } else if (document.getElementById('queryRadio2').checked) {
-            document.getElementById('searchTermLabel').innerHTML = "Search in Bug Description";
+            // Search partial string in description
+            document.getElementById('searchBarLabel').innerHTML = "Search in Bug Description";
+
+            // Clear and disable the after-this-date date selector
+            document.getElementById('bugDateReportedGTE').value = "";
+            document.getElementById('bugDateReportedGTE').setAttribute("disabled", true);
+            document.getElementById('bugDateReportedGTE').setAttribute("hidden", true);
+            document.getElementById('bugDateReportedGTE').removeAttribute("required");
+            
+            // Change the searchTerm to search for bug description
             document.getElementById('searchTerm').value = "";
             document.getElementById('searchTerm').type = "text";
+            document.getElementById('searchTerm').className = "form-control col-md-10";
             document.getElementById('searchTerm').name = "bugDescription";
         } else {
-            document.getElementById('searchTermLabel').innerHTML = "Search Bug Reported earlier than this date";
+            // Date range selector
+            document.getElementById('searchBarLabel').innerHTML = "Search date range of Bug Reports report date";
+
+            // Enable the after-this-date date selector
+            document.getElementById('bugDateReportedGTE').value = "";
+            document.getElementById('bugDateReportedGTE').removeAttribute("disabled");
+            document.getElementById('bugDateReportedGTE').removeAttribute("hidden");
+            document.getElementById('bugDateReportedGTE').setAttribute("required", true);
+
+            // Change the searchTerm to be a before-this-date date selector
             document.getElementById('searchTerm').value = "";
             document.getElementById('searchTerm').type = "date";
-            document.getElementById('searchTerm').name = "bugDateReported";
+            document.getElementById('searchTerm').className = "form-control col-md-5";
+            document.getElementById('searchTerm').name = "bugDateReportedLTE";
         }
     }
 </script>
@@ -38,12 +68,15 @@
     </div>
 </div>
 
+<br>
+
 <form action="/bugreports/search" method="GET" class="needs-validation" novalidate>
-    <br>
-    <label for="searchTerm" id="searchTermLabel">Search in Bug ID</label>
+
+    <label for="searchBar" id="searchBarLabel">Search in Bug ID</label>
     <div class="form-row" id="searchBar">
-        <input type="text" class="form-control col-md-11" id="searchTerm" name="bugID" required>
-        <button class="btn btn-info col-md-1">Search</button>
+        <input type="date" class="form-control col-md-5" id="bugDateReportedGTE" name="bugDateReportedGTE" hidden disabled>
+        <input type="text" class="form-control col-md-10" id="searchTerm" name="bugID" required>
+        <button class="btn btn-info col-md-2">Search</button>
         <div class="invalid-feedback">Please fill out this field.</div>
     </div>
 </form>
@@ -70,8 +103,8 @@
                 <td><%= result.bugStatus %></td>
                 <td><%= result.bugAssignedTo %></td>
                 <!-- Date in dd/mm/yyyy -->
-                <td><%= result.bugDateReported.getDate() %>/<%= result.bugDateReported.getMonth() %>/<%= result.bugDateReported.getFullYear() %></td>
-                <td><%= result.bugLastBumpDate.getDate() %>/<%= result.bugLastBumpDate.getMonth() %>/<%= result.bugLastBumpDate.getFullYear() %></td>
+                <td><%= result.bugDateReported.getDate() %>/<%= result.bugDateReported.getMonth() + 1 %>/<%= result.bugDateReported.getFullYear() %></td>
+                <td><%= result.bugLastBumpDate.getDate() %>/<%= result.bugLastBumpDate.getMonth() + 1 %>/<%= result.bugLastBumpDate.getFullYear() %></td>
             </tr>
         <% } %>
     </tbody>

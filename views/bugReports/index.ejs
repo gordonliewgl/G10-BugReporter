@@ -21,8 +21,8 @@
                 <td><%= bugreport.bugStatus %></td>
                 <td><%= bugreport.bugAssignedTo %></td>
                 <!-- Date in dd/mm/yyyy -->
-                <td><%= bugreport.bugDateReported.getDate() %>/<%= bugreport.bugDateReported.getMonth() %>/<%= bugreport.bugDateReported.getFullYear() %></td>
-                <td><%= bugreport.bugLastBumpDate.getDate() %>/<%= bugreport.bugLastBumpDate.getMonth() %>/<%= bugreport.bugLastBumpDate.getFullYear() %></td>
+                <td><%= bugreport.bugDateReported.getDate() %>/<%= bugreport.bugDateReported.getMonth() + 1 %>/<%= bugreport.bugDateReported.getFullYear() %></td>
+                <td><%= bugreport.bugLastBumpDate.getDate() %>/<%= bugreport.bugLastBumpDate.getMonth() + 1 %>/<%= bugreport.bugLastBumpDate.getFullYear() %></td>
             </tr>
         <% } %>
     </tbody>

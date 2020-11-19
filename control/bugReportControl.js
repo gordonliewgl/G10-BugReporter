@@ -13,26 +13,23 @@ module.exports.renderNewForm = async (req, res) => {
 }
 
 module.exports.renderSearchForm = async (req, res) => {
-    const { bugID, bugDescription, bugDateReported } = req.query;
+    const { bugID, bugDescription, bugDateReportedGTE, bugDateReportedLTE } = req.query;
     console.log(`Bug ID: ${bugID}`);
     console.log(`Bug Desc: ${bugDescription}`);
-    console.log(`Bug Date Reported: ${bugDateReported}`);
+    console.log(`Bug Date Reported after this date: ${bugDateReportedGTE}`);
+    console.log(`Bug Date Reported after this date: ${bugDateReportedLTE}`);
     let searchTerm = {};
     let results = {};
-    if (bugDateReported) {
-        searchTerm["bugDateReported"] = {$lt: `${bugDateReported}`};
-        console.log(`Search term: ${searchTerm}`);
+    if (bugDateReportedGTE && bugDateReportedLTE) {
+        searchTerm["bugDateReported"] = {$gte: `${bugDateReportedGTE}`, $lte: `${bugDateReportedLTE}`};
         results = await BugReport.find(searchTerm);
     } else if (bugID) {
         searchTerm["bugID"] = {$regex: `${bugID}`};
-        console.log(`Search term: ${searchTerm}`);
         results = await BugReport.find(searchTerm);
     } else {
         searchTerm["bugDescription"] = {$regex: `${bugDescription}`};
-        console.log(`Search term: ${searchTerm}`);
         results = await BugReport.find(searchTerm);
     }
-    console.log(`Search term: ${searchTerm}`);
     res.render('bugreports/search', { results } );
 }
 
