@@ -1,5 +1,6 @@
 const { BugReport, BugReportComment } = require('../models/bugReportModel.js');
 const User = require('../models/userModel.js');
+const { search } = require('../routes/userRoute.js');
 
 module.exports.index = async (req, res) => {
     const bugreports = await BugReport.find({});
@@ -12,8 +13,27 @@ module.exports.renderNewForm = async (req, res) => {
 }
 
 module.exports.renderSearchForm = async (req, res) => {
-    const bugreports = await BugReport.find({});
-    res.render('bugreports/search', { bugreports });
+    const { bugID, bugDescription, bugDateReported } = req.query;
+    console.log(`Bug ID: ${bugID}`);
+    console.log(`Bug Desc: ${bugDescription}`);
+    console.log(`Bug Date Reported: ${bugDateReported}`);
+    let searchTerm = {};
+    let results = {};
+    if (bugDateReported) {
+        searchTerm["bugDateReported"] = {$lt: `${bugDateReported}`};
+        console.log(`Search term: ${searchTerm}`);
+        results = await BugReport.find(searchTerm);
+    } else if (bugID) {
+        searchTerm["bugID"] = {$regex: `${bugID}`};
+        console.log(`Search term: ${searchTerm}`);
+        results = await BugReport.find(searchTerm);
+    } else {
+        searchTerm["bugDescription"] = {$regex: `${bugDescription}`};
+        console.log(`Search term: ${searchTerm}`);
+        results = await BugReport.find(searchTerm);
+    }
+    console.log(`Search term: ${searchTerm}`);
+    res.render('bugreports/search', { results } );
 }
 
 module.exports.createBugReport = async (req, res, next) => {

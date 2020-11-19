@@ -6,16 +6,19 @@
 <script type="text/javascript">
     function changeSearchTerm() {
         if (document.getElementById('queryRadio1').checked) {
+            document.getElementById('searchTermLabel').innerHTML = "Search in Bug ID";
             document.getElementById('searchTerm').value = "";
             document.getElementById('searchTerm').type = "text";
             document.getElementById('searchTerm').name = "bugID";
         } else if (document.getElementById('queryRadio2').checked) {
+            document.getElementById('searchTermLabel').innerHTML = "Search in Bug Description";
             document.getElementById('searchTerm').value = "";
             document.getElementById('searchTerm').type = "text";
             document.getElementById('searchTerm').name = "bugDescription";
         } else {
+            document.getElementById('searchTermLabel').innerHTML = "Search Bug Reported earlier than this date";
             document.getElementById('searchTerm').value = "";
-            document.getElementById('searchTerm').type = "datetime-local";
+            document.getElementById('searchTerm').type = "date";
             document.getElementById('searchTerm').name = "bugDateReported";
         }
     }
@@ -35,11 +38,41 @@
     </div>
 </div>
 
-<form action="/bugreports/search" method="GET" class="needs-validation">
+<form action="/bugreports/search" method="GET" class="needs-validation" novalidate>
     <br>
-    <label for="searchTerm">Search Term</label>
+    <label for="searchTerm" id="searchTermLabel">Search in Bug ID</label>
     <div class="form-row" id="searchBar">
         <input type="text" class="form-control col-md-11" id="searchTerm" name="bugID" required>
         <button class="btn btn-info col-md-1">Search</button>
+        <div class="invalid-feedback">Please fill out this field.</div>
     </div>
 </form>
+
+<br>
+
+<label for="searchResults">Search Results</label>
+<table class="table table-striped" id="searchResults">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col-md-2">Bug ID</th>
+            <th scope="col-md-4">Bug Description</th>
+            <th scope="col-md-2">Bug Status</th>
+            <th scope="col-md-2">Assigned To</th>
+            <th scope="col-md-1">Date Reported</th>
+            <th scope="col-md-1">Last Bump Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        <% for (let result of results) { %>
+            <tr>
+                <td><a href="/bugreports/<%= result._id %>"><%= result.bugID %></a></td>
+                <td><%= result.bugDescription %></td>
+                <td><%= result.bugStatus %></td>
+                <td><%= result.bugAssignedTo %></td>
+                <!-- Date in dd/mm/yyyy -->
+                <td><%= result.bugDateReported.getDate() %>/<%= result.bugDateReported.getMonth() %>/<%= result.bugDateReported.getFullYear() %></td>
+                <td><%= result.bugLastBumpDate.getDate() %>/<%= result.bugLastBumpDate.getMonth() %>/<%= result.bugLastBumpDate.getFullYear() %></td>
+            </tr>
+        <% } %>
+    </tbody>
+</table>
