@@ -12,6 +12,8 @@ router.route('/')
 
 router.get('/new', isLoggedIn, isBugReporter, bugReportControl.renderNewForm)
 
+router.get('/search', isLoggedIn, bugReportControl.renderSearchForm)
+
 router.route('/:id')
     .get(isLoggedIn, catchAsync(bugReportControl.showBugReport))
     .put(isLoggedIn, isNotReviewer, isDevAllowedToEditReport, updateBugReportLastBumpDate, validateBugReport, catchAsync(bugReportControl.updateBugReport))

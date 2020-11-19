@@ -1,0 +1,45 @@
+<% layout('layouts/boilerplate')%>
+
+<h4>Search Page</h4>
+<br>
+
+<script type="text/javascript">
+    function changeSearchTerm() {
+        if (document.getElementById('queryRadio1').checked) {
+            document.getElementById('searchTerm').value = "";
+            document.getElementById('searchTerm').type = "text";
+            document.getElementById('searchTerm').name = "bugID";
+        } else if (document.getElementById('queryRadio2').checked) {
+            document.getElementById('searchTerm').value = "";
+            document.getElementById('searchTerm').type = "text";
+            document.getElementById('searchTerm').name = "bugDescription";
+        } else {
+            document.getElementById('searchTerm').value = "";
+            document.getElementById('searchTerm').type = "datetime-local";
+            document.getElementById('searchTerm').name = "bugDateReported";
+        }
+    }
+</script>
+
+<div class="form-row">
+    <div class="btn-group btn-group-toggle btn-block" data-toggle="buttons">
+        <label class="btn btn-secondary col-md-4 active">
+            <input type="radio" name="query" id="queryRadio1" onclick="javascript:changeSearchTerm();"checked>Bug ID
+        </label>
+        <label class="btn btn-secondary col-md-4">
+            <input type="radio" name="query" id="queryRadio2" onclick="javascript:changeSearchTerm();">Description
+        </label>
+        <label class="btn btn-secondary col-md-4">
+            <input type="radio" name="query" id="queryRadio3" onclick="javascript:changeSearchTerm();">Date Reported
+        </label>
+    </div>
+</div>
+
+<form action="/bugreports/search" method="GET">
+    <br>
+    <label for="searchTerm">Search Term</label>
+    <div class="form-row" id="searchBar">
+        <input type="text" class="form-control col-md-11" id="searchTerm" name="bugID">
+        <button class="btn btn-info col-md-1">Search</button>
+    </div>
+</form>
