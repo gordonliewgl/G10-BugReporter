@@ -846,7 +846,7 @@
                     "name":"MiaGat121",
                     "role":"Bug Reporter",
                     "comment":"aoifjodsjofiawjdgadarreofiaodjisf",
-                    "commentDate":"2020-089-20T11:25:30.000Z"
+                    "commentDate":"2020-09-20T11:25:30.000Z"
                 }
             ]
         },
@@ -2539,7 +2539,7 @@
             "bugDescription":"The lake is a long way from here.",
             "bugStatus":"Closed",
 			"bugSeverity":"1",
-            "bugDateReported":"2019-10-120T23:16:30.000Z",
+            "bugDateReported":"2019-10-12T23:16:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
             "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
@@ -2937,7 +2937,7 @@
         {
             "bugID":"BR0201",
             "bugDescription":"Grape jelly was leaking out the hole in the roof.",
-            "bugStatus":"Fixed",
+            "bugStatus":"Awaiting Testing",
 			"bugSeverity":"1",
             "bugDateReported":"1950-06-09T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
@@ -3989,7 +3989,7 @@
                 {
                     "name":"Lucas",
                     "role":"Bug Reporter",
-                    "comment":"",
+                    "comment":"asdfasdf",
                     "commentDate":"2020-08-14T23:15:30.000Z"
                 }
             ]
@@ -4329,7 +4329,7 @@
                 {
                     "name":"FionaLSE333",
                     "role":"Reviewer",
-                    "comment":"",
+                    "comment":"asdfasdf",
                     "commentDate":"2020-08-01T23:14:00.000Z"
                 }
             ]
@@ -4745,6 +4745,7 @@
             "bugID":"BR0309",
             "bugDescription":"We have never been to Asia, nor have we visited Africa.I really want to go to work, but I am too sick to drive.",
             "bugStatus":"In Progress",
+            "bugSeverity":"3",
             "bugDateReported":"2020-08-11T19:14:32.000Z",
             "bugLastBumpDate":"2020-08-18T20:15:30.000Z",
             "bugAssignedTo":"Gordon",
@@ -5421,7 +5422,7 @@
             ]
         },
         {
-            "bugID":"BR03349",
+            "bugID":"BR0349",
             "bugDescription":"Lets all be unique together until we realise we are all the same.",
             "bugStatus":"Open",
             "bugSeverity":"3",
