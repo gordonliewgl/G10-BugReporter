@@ -380,7 +380,7 @@
             "bugDescription":"This is the last random sentence I will be writing and I am going to stop mid-sent",
             "bugStatus":"Closed",
 			"bugSeverity":"4",
-            "bugDateReported:"2020-02-21T23:15:30.000Z",
+            "bugDateReported":"2020-02-21T23:15:30.000Z",
             "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
             "bugAssignedTo":"AimeeRPA326",
             "bugComments":[
@@ -1233,6 +1233,6 @@
             "bugComments":[
                 
             ]
-        },
+        }
     ]
 }

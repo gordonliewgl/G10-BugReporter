@@ -331,23 +331,6 @@
         },
 		{
             "bugID":"BR0220",
-            "bugDescription":"There's a message for you if you look up.",
-            "bugStatus":"Open",
-			"bugSeverity":"3",
-            "bugDateReported":"2000-06-09T23:15:30.000Z",
-            "bugLastBumpDate":"2020-08-19T23:15:30.000Z",
-            "bugAssignedTo":"BryanSWH231",
-            "bugComments":[
-                {
-                    "name":"JeremyWu09",
-                    "role":"Bug Reporter",
-                    "comment":"Mary plays the piano.",
-                    "commentDate":"2020-08-14T23:15:30.000Z"
-                }
-            ]
-        },
-		{
-            "bugID":"BR0220",
             "bugDescription":"He excelled at firing people nicely.",
             "bugStatus":"In Progress",
 			"bugSeverity":"3",
