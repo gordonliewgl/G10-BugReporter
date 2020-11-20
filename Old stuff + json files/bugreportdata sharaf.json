@@ -1,0 +1,1693 @@
+
+{
+    "bugReports": [
+        {
+            "bugID":"BR0301",
+            "bugDescription":"He told us a very exciting adventure story.",
+            "bugStatus":"Open",
+			"bugSeverity":"4",
+            "bugDateReported":"1950-06-09T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"KimHao",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"ytt",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+        {
+            "bugID":"BR0302",
+            "bugDescription":"He had unknowingly taken up sleepwalking as a nighttime hobby.", 
+            "bugStatus":"Open",
+			"bugSeverity":"2",
+            "bugDateReported":"2005-08-25T21:09:30.000Z",
+            "bugLastBumpDate":"2010-08-19T21:09:30.000Z",
+            "bugAssignedTo":"Gordon",
+            "bugComments":[
+                {
+                    "name":"Laksh",
+                    "role":"Developer",
+                    "comment":"cvc",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                },
+                {
+                    "name":"Laksh",
+                    "role":"Developer",
+                    "comment":"xyz",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+        {
+            "bugID":"BR0303",
+            "bugDescription":"He barked orders at his daughters but they just stared back with amusement.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"2",
+            "bugDateReported":"1965-05-10T21:09:30.000Z",
+            "bugLastBumpDate":"2003-08-19T21:09:30.000Z",
+            "bugAssignedTo":"KimHao",
+            "bugComments":[
+                {
+                    "name":"Harsono",
+                    "role":"Bug Reporter",
+                    "comment":"abc",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0304",
+            "bugDescription":"It was difficult for Mary to admit that most of her workout consisted of exercising poor judgment.",
+            "bugStatus":"Closed",
+			"bugSeverity":"1",
+            "bugDateReported":"2003-06-09T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"Laksh",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"ghi",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0305",
+            "bugDescription":"He said he was not there yesterday; however, many people saw him there.",
+            "bugStatus":"Closed",
+			"bugSeverity":"4",
+            "bugDateReported":"2003-06-09T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"Laksh",
+            "bugComments":[
+                {
+                    "name":"Harsono",
+                    "role":"Bug Reporter",
+                    "comment":"qwe",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0306",
+            "bugDescription":"The Great Dane looked more like a horse than a dog.",
+            "bugStatus":"Closed",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-09T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"KimHao",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"rty",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0307",
+            "bugDescription":"Thirty years later, she still thought it was okay to put the toilet paper roll under rather than over.",
+            "bugStatus":"Closed",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-09T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"Gordon",
+            "bugComments":[
+                {
+                    "name":"Edrick",
+                    "role":"Triager",
+                    "comment":"uio",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0308",
+            "bugDescription":"The tour bus was packed with teenage girls heading toward their next adventure.",
+            "bugStatus":"Closed",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-09T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"Laksh",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"plok",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0309",
+            "bugDescription":"Gary didn't understand why Doug went upstairs to get one dollar bills when he invited him to go cow tipping.",
+            "bugStatus":"Closed",
+			"bugSeverity":"5",
+            "bugDateReported":"2003-06-09T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"KimHao",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"hinfy",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0310",
+            "bugDescription":"After exploring the abandoned building, he started to believe in ghosts.",
+            "bugStatus":"Closed",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-09T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"KimHao",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"derek",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0311",
+            "bugDescription":"A dead duck doesn't fly backward.",
+            "bugStatus":"Closed",
+			"bugSeverity":"1",
+            "bugDateReported":"2003-06-09T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"noi",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0312",
+            "bugDescription":"He walked into the basement with the horror movie from the night before playing in his head.",
+            "bugStatus":"Closed",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-09T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"alert",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0313",
+            "bugDescription":"Nothing is as cautiously cuddly as a pet porcupine.",
+            "bugStatus":"Closed",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-09T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"dreams",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0314",
+            "bugDescription":"She folded her handkerchief neatly.",
+            "bugStatus":"Closed",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-09T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"dresser",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0315",
+            "bugDescription":"He picked up trash in his spare time to dump in his neighbor's yard.",
+            "bugStatus":"Closed",
+			"bugSeverity":"4",
+            "bugDateReported":"2003-06-09T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"xdz",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0316",
+            "bugDescription":"He found the end of the rainbow and was surprised at what he found there.",
+            "bugStatus":"Closed",
+			"bugSeverity":"1",
+            "bugDateReported":"2003-06-09T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"bhu",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0317",
+            "bugDescription":"She is never happy until she finds something to be unhappy about; then, she is overjoyed.",
+            "bugStatus":"Closed",
+			"bugSeverity":"1",
+            "bugDateReported":"2003-06-09T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"pch",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0318",
+            "bugDescription":"Mothers spend months of their lives waiting on their children.",
+            "bugStatus":"Closed",
+			"bugSeverity":"1",
+            "bugDateReported":"2003-06-09T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"anc",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0319",
+            "bugDescription":"She wasn't sure whether to be impressed or concerned that he folded underwear in neat little packages.",
+            "bugStatus":"Closed",
+			"bugSeverity":"4",
+            "bugDateReported":"2003-06-09T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"bkc",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0320",
+            "bugDescription":"You realize you're not alone as you sit in your bedroom massaging your calves after a long day of playing tug-of-war with Grandpa Joe in the hospital.",
+            "bugStatus":"Closed",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-09T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"BryanSWH231",
+            "bugComments":[
+                {
+                    "name":"JeremyWu09",
+                    "role":"Bug Reporter",
+                    "comment":"uow",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0320",
+            "bugDescription":"His ultimate dream fantasy consisted of being content and sleeping eight hours in a row.",
+            "bugStatus":"Open",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-10T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"nhu",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0321",
+            "bugDescription":"Please wait outside of the house.",
+            "bugStatus":"Open",
+			"bugSeverity":"1",
+            "bugDateReported":"2003-06-10T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"trying",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0322",
+            "bugDescription":"Of course, she loves her pink bunny slippers.",
+            "bugStatus":"Open",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-10T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"weird",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0323",
+            "bugDescription":"There aren't enough towels in the world to stop the sewage flowing from his mouth.",
+            "bugStatus":"Open",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-10T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"confusing.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0324",
+            "bugDescription":"She looked at the masterpiece hanging in the museum but all she could think is that her five-year-old could do better.",
+            "bugStatus":"Open",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-10T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"The extra-small power lands into the meek negotiation.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0325",
+            "bugDescription":"They're playing the piano while flying in the plane.",
+            "bugStatus":"Open",
+			"bugSeverity":"1",
+            "bugDateReported":"2003-06-10T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"The extra-small power lands into the meek negotiation.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0326",
+            "bugDescription":"Nothing seemed out of place except the washing machine in the bar.",
+            "bugStatus":"Open",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-10T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"The extra-small power lands into the meek negotiation.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0327",
+            "bugDescription":"Sometimes I stare at a door or a wall and I wonder what is this reality, why am I alive, and what is this all about?",
+            "bugStatus":"Open",
+			"bugSeverity":"4",
+            "bugDateReported":"2003-06-10T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"The extra-small power lands into the meek negotiation.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0328",
+            "bugDescription":"He stomped on his fruit loops and thus became a cereal killer.",
+            "bugStatus":"Open",
+			"bugSeverity":"5",
+            "bugDateReported":"2003-06-10T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"The extra-small power lands into the meek negotiation.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0329",
+            "bugDescription":"Giving directions that the mountains are to the west only works when you can see them.",
+            "bugStatus":"Open",
+			"bugSeverity":"5",
+            "bugDateReported":"2003-06-10T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"The extra-small power lands into the meek negotiation.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0330",
+            "bugDescription":"A quiet house is nice until you are ordered to stay in it for months.",
+            "bugStatus":"Open",
+			"bugSeverity":"5",
+            "bugDateReported":"2003-06-10T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-19T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"VioletHAK832",
+                    "role":"Triager",
+                    "comment":"The extra-small power lands into the meek negotiation.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0331",
+            "bugDescription":"It caught him off guard that space smelled of seared steak.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"4",
+            "bugDateReported":"2003-06-12T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-10T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"The bold promotion can't trace the wood.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0332",
+            "bugDescription":"Toddlers feeding raccoons surprised even the seasoned park ranger.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-12T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-10T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"The bold promotion can't trace the wood.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0333",
+            "bugDescription":"There's a reason that roses have thorns.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"4",
+            "bugDateReported":"2003-06-12T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-10T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"The bold promotion can't trace the wood.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0334",
+            "bugDescription":"I love eating toasted cheese and tuna sandwiches.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"1",
+            "bugDateReported":"2003-06-12T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-10T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"The bold promotion can't trace the wood.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0335",
+            "bugDescription":"Rock music approaches at high velocity.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"1",
+            "bugDateReported":"2003-06-12T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-10T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"The bold promotion can't trace the wood.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0336",
+            "bugDescription":"Standing on one's head at job interviews forms a lasting impression.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"4",
+            "bugDateReported":"2003-06-12T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-10T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"The bold promotion can't trace the wood.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0337",
+            "bugDescription":"One small action would change her life, but whether it would be for better or for worse was yet to be determined.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"1",
+            "bugDateReported":"2003-06-12T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-10T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"The bold promotion can't trace the wood.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0338",
+            "bugDescription":"The wake behind the boat told of the past while the open sea for told life in the unknown future.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-12T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-10T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"The bold promotion can't trace the wood.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0339",
+            "bugDescription":"The efficiency we have at removing trash has made creating trash more acceptable.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-12T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-10T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"The bold promotion can't trace the wood.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0340",
+            "bugDescription":"There were white out conditions in the town; subsequently, the roads were impassable.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"1",
+            "bugDateReported":"2003-06-12T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-10T21:09:30.000Z",
+            "bugAssignedTo":"KristyWPM613",
+            "bugComments":[
+                {
+                    "name":"Jose",
+                    "role":"Reviewer",
+                    "comment":"The bold promotion can't trace the wood.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0341",
+            "bugDescription":"He embraced his new life as an eggplant.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-15T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"The extra-small power lands into the meek negotiation.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0342",
+            "bugDescription":"The sudden rainstorm washed crocodiles into the ocean.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"5",
+            "bugDateReported":"2003-06-15T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"The extra-small power lands into the meek negotiation.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0343",
+            "bugDescription":"Red is greener than purple, for sure.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-15T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"The extra-small power lands into the meek negotiation.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0344",
+            "bugDescription":"Doris enjoyed tapping her nails on the table to annoy everyone.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-15T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"The extra-small power lands into the meek negotiation.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0345",
+            "bugDescription":"The extra-small power lands into the meek negotiation.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"4",
+            "bugDateReported":"2003-06-15T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"The extra-small power lands into the meek negotiation.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0346",
+            "bugDescription":"Traveling became almost extinct during the pandemic.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"1",
+            "bugDateReported":"2003-06-15T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"The extra-small power lands into the meek negotiation.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0347",
+            "bugDescription":"It'll be a big occasion.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"1",
+            "bugDateReported":"2003-06-15T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"The extra-small power lands into the meek negotiation.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0348",
+            "bugDescription":"The elite turn reviews the discovery.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-15T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"The extra-small power lands into the meek negotiation.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0349",
+            "bugDescription":"The mother persuades the crack.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"4",
+            "bugDateReported":"2003-06-15T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"The extra-small power lands into the meek negotiation.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0350",
+            "bugDescription":"The knowing cry narrates the music.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-06-15T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"InaayahRu214",
+            "bugComments":[
+                {
+                    "name":"AmberRCA901",
+                    "role":"Reviewer",
+                    "comment":"The extra-small power lands into the meek negotiation.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0351",
+            "bugDescription":"The noise manufactures the step.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"The tremendous strike relaxs into the agitated internal.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0352",
+            "bugDescription":"The roasted organisation consolidates the paste.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"4",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"The tremendous strike relaxs into the agitated internal.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0353",
+            "bugDescription":"The level sketchs the quixotic law.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"The tremendous strike relaxs into the agitated internal.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0354",
+            "bugDescription":"The married chance taughts the fight.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"The tremendous strike relaxs into the agitated internal.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0355",
+            "bugDescription":"The minute diagnoses the powder.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"4",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"The tremendous strike relaxs into the agitated internal.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0356",
+            "bugDescription":"The piquant note transmits the expert.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"5",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"The tremendous strike relaxs into the agitated internal.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0357",
+            "bugDescription":"The obtainable part summarizes the meat.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"The tremendous strike relaxs into the agitated internal.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0358",
+            "bugDescription":"The ice stimulates the cluttered servant.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"The tremendous strike relaxs into the agitated internal.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0359",
+            "bugDescription":"The sense lists the hate.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"1",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"The tremendous strike relaxs into the agitated internal.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0360",
+            "bugDescription":"The adamant sound automates the sand.",
+            "bugStatus":"Awaiting Testing",
+			"bugSeverity":"1",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"MaxRWK732",
+                    "role":"Developer",
+                    "comment":"The tremendous strike relaxs into the agitated internal.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0361",
+            "bugDescription":"The way discovers the person.",
+            "bugStatus":"Closed",
+			"bugSeverity":"1",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0362",
+            "bugDescription":"The broken attention implements the letter.",
+            "bugStatus":"Closed",
+			"bugSeverity":"1",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0363",
+            "bugDescription":"The rate categorizes the subdued feeling.",
+            "bugStatus":"Closed",
+			"bugSeverity":"1",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"The wrathful credit retrieves the discussion.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0364",
+            "bugDescription":"The fire persuades the soup.",
+            "bugStatus":"Closed",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"The operation transposes the abhorrent learning.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0365",
+            "bugDescription":"The second profit extracts the process.",
+            "bugStatus":"Closed",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"The work systematizes the keen steam.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0366",
+            "bugDescription":"The idiotic fight completes the driving.",
+            "bugStatus":"Closed",
+			"bugSeverity":"1",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"The list innovates the polish.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0367",
+            "bugDescription":"The big behavior strategizes the number.",
+            "bugStatus":"Closed",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"The rest adapts the picayune jelly.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0368",
+            "bugDescription":"The hideous cotton assigns the smoke.",
+            "bugStatus":"Closed",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"The meeting set ups the harmonious cork.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0369",
+            "bugDescription":"The desire acts the wealthy destruction.",
+            "bugStatus":"Closed",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"The pleasant lift uncovers the paint.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0370",
+            "bugDescription":"The grip catalogs the week.",
+            "bugStatus":"Closed",
+			"bugSeverity":"2",
+            "bugDateReported":"2003-04-29T21:09:30.000Z",
+            "bugLastBumpDate":"2020-08-01T21:09:30.000Z",
+            "bugAssignedTo":"MarkPCC",
+            "bugComments":[
+                {
+                    "name":"Lucas",
+                    "role":"Bug Reporter",
+                    "comment":"The twist calibrates the funny system.",
+                    "commentDate":"2020-08-14T21:09:30.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0371",
+            "bugDescription":"The side mobilizes the wind.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"1",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"Gordon",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"The judge cultivates the itchy curve.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0372",
+            "bugDescription":"The screeching record orients the test.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"1",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"Gordon",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"The jealous wound upgrades the expert.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0373",
+            "bugDescription":"The river rates the sense.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"2",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"Gordon",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"The talk engineers the tacit push.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0374",
+            "bugDescription":"The industry diagrams the whole page.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"1",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"Gordon",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"The sticky judge markets the ink.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0375",
+            "bugDescription":"The steam narrates the wine.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"5",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"Gordon",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"The expert examines the fiction.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0376",
+            "bugDescription":"The attention selects the premium vessel.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"5",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"Gordon",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"The memory cultivates the needless agreement.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0377",
+            "bugDescription":"That man is holding a gun!",
+            "bugStatus":"In Progress",
+			"bugSeverity":"5",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"Gordon",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"The offer documents the winter.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0378",
+            "bugDescription":"I brought you into this world so I can take you out!",
+            "bugStatus":"In Progress",
+			"bugSeverity":"4",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"Gordon",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"The jazzy stop describes the design.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0379",
+            "bugDescription":"The anchored toe can't own the routine.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"2",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"Gordon",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"He quietly entered the museum as the super bowl started.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0380",
+            "bugDescription":"The nostalgic performance can't guard the worker.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"2",
+            "bugDateReported":"2005-07-18T23:10:00.000Z",
+            "bugLastBumpDate":"2020-08-01T23:14:00.000Z",
+            "bugAssignedTo":"Gordon",
+            "bugComments":[
+                {
+                    "name":"Benedict",
+                    "role":"Triager",
+                    "comment":"I am my aunt's sister's daughter.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0381",
+            "bugDescription":"The elegant table places into the instructive dust.",
+            "bugStatus":"Closed",
+			"bugSeverity":"4",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"I am never at home on Sundays.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0382",
+            "bugDescription":"The slim recognition can't waste the item.",
+            "bugStatus":"Closed",
+			"bugSeverity":"2",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0383",
+            "bugDescription":"The large class includes into the revolving metal.",
+            "bugStatus":"Closed",
+			"bugSeverity":"2",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"Flesh-colored yoga pants were far worse than even he feared.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0384",
+            "bugDescription":"It was then the puny profile met the apprehensive effective.",
+            "bugStatus":"Closed",
+			"bugSeverity":"1",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"It was the best sandcastle he had ever seen.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0385",
+            "bugDescription":"The civil relative can't excite the midnight.",
+            "bugStatus":"Closed",
+			"bugSeverity":"1",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"She tilted her head back and let whip cream stream into her mouth while taking a bath.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0386",
+            "bugDescription":"It was then the average master met the greedy lady.",
+            "bugStatus":"Closed",
+			"bugSeverity":"1",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"I am counting my calories, yet I really want dessert.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0387",
+            "bugDescription":"It was then the condescending flower met the clear-cut grocery.",
+            "bugStatus":"Closed",
+			"bugSeverity":"1",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"Please tell me you don't work in a morgue.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0388",
+            "bugDescription":"The skeletal impress can't collect the western.",
+            "bugStatus":"Closed",
+			"bugSeverity":"4",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"The group quickly understood that toxic waste was the most effective barrier to use against the zombies.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0389",
+            "bugDescription":"The scarce voice can't judge the national.",
+            "bugStatus":"Closed",
+			"bugSeverity":"2",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"The teens wondered what was kept in the red shed on the far edge of the school grounds.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0390",
+            "bugDescription":"The terrible break can't part the broad.",
+            "bugStatus":"Closed",
+			"bugSeverity":"1",
+            "bugDateReported":"2009-09-24T23:13:00.000Z",
+            "bugLastBumpDate":"2020-08-26T23:17:00.000Z",
+            "bugAssignedTo":"BobGYA315",
+            "bugComments":[
+                {
+                    "name":"FionaLSE333",
+                    "role":"Reviewer",
+                    "comment":"Lightning where.",
+                    "commentDate":"2020-08-01T23:14:00.000Z"
+                }
+            ]
+        },
+		{
+            "bugID":"BR0391",
+            "bugDescription":"The whopping force sails into the depraved agreement.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"4",
+            "bugDateReported":"2014-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[]
+        },
+		{
+            "bugID":"BR0392",
+            "bugDescription":"It was then the seemly officer met the spotless formal.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"2",
+            "bugDateReported":"2014-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[]
+        },
+		{
+            "bugID":"BR0393",
+            "bugDescription":"The depraved angle can't nod the steal.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"2",
+            "bugDateReported":"2014-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[
+				{
+                    "name":"AdelineFGH12",
+                    "role":"Reviewer",
+                    "comment":"The Japanese yen for commerce is still well-known.",
+                    "commentDate":"2020-10-05T23:14:00.000Z"
+                }
+			]
+        },
+		{
+            "bugID":"BR0394",
+            "bugDescription":"The known piece can't hand the lady.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"2",
+            "bugDateReported":"2014-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[
+				{
+                    "name":"AdelineFGH12",
+                    "role":"Reviewer",
+                    "comment":"It was then the painful associate met the frank orange.",
+                    "commentDate":"2020-10-05T23:14:00.000Z"
+                }
+			]
+        },
+		{
+            "bugID":"BR0395",
+            "bugDescription":"It was then the alcoholic examination met the satisfying excuse.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"5",
+            "bugDateReported":"2014-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[]
+        },
+		{
+            "bugID":"BR0396",
+            "bugDescription":"The functional effective yells into the united historian.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"5",
+            "bugDateReported":"2014-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[
+				{
+                    "name":"AdelineFGH12",
+                    "role":"Reviewer",
+                    "comment":"The primary care can't sigh the baseball.",
+                    "commentDate":"2020-10-05T23:14:00.000Z"
+                }
+			]
+        },
+		{
+            "bugID":"BR0397",
+            "bugDescription":"The pessimistic ball whistles into the learned east.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"2",
+            "bugDateReported":"2014-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[]
+        },
+		{
+            "bugID":"BR0398",
+            "bugDescription":"The spry ticket types into the unnatural importance",
+            "bugStatus":"In Progress",
+			"bugSeverity":"2",
+            "bugDateReported":"2014-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[
+				{
+                    "name":"AdelineFGH12",
+                    "role":"Reviewer",
+                    "comment":"The language conciliates the yummy example.",
+                    "commentDate":"2020-10-05T23:14:00.000Z"
+                }
+			]
+        },
+		{
+            "bugID":"BR0399",
+            "bugDescription":"It was then the kaput spread met the narrow reference.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"1",
+            "bugDateReported":"2014-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[
+				{
+                    "name":"AdelineFGH12",
+                    "role":"Reviewer",
+                    "comment":"The burn articulates the closed stone.",
+                    "commentDate":"2020-10-05T23:14:00.000Z"
+                }
+			]
+        },
+		{
+            "bugID":"BR0400",
+            "bugDescription":"The woebegone letter glows into the hospitable roll.",
+            "bugStatus":"In Progress",
+			"bugSeverity":"1",
+            "bugDateReported":"2014-03-07T23:13:00.000Z",
+            "bugLastBumpDate":"2020-10-25T23:17:00.000Z",
+            "bugAssignedTo":"NewtonFAX374",
+            "bugComments":[]
+        }
+    ]
+}
